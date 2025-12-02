@@ -1,0 +1,681 @@
+.smwa{
+    position: absolute;
+    top:250px;
+    left: 400px;
+    line-height: 75px;
+    text-align: center;
+    font-size: 70px;
+    color: darkslategray;
+    font-weight: bold;
+}
+
+.smartw{
+    position: absolute;
+    top:520px;
+    left: 610px;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.stay{
+    position: absolute;
+    top:570px;
+    left: 530px;
+    font-size: 17px;
+}
+
+.wat1{
+    position: absolute;
+    top:630px;
+    left: 150px;
+    border-radius: 25px;
+    width: 1200px;
+    padding-bottom: 10px;
+    transition: 0.6s;
+}
+
+.wat1:hover{
+    border-radius: 30px;
+}
+
+.wath{
+    position: absolute;
+    top:770px;
+    left: 250px;
+    font-weight: bold;
+    color: darkslategray;
+    font-size: 40px;
+}
+
+.wath2{
+    position: absolute;
+    top:825px;
+    left: 280px;
+    font-size: 17px;
+}
+
+.wath4{
+    position: absolute;
+    top:851px;
+    font-size: 20px;
+    font-weight: bold;
+    left: 390px;
+}
+
+.wath5{
+    position: absolute;
+    top:885px;
+    left: 330px;
+    font-size: 13px;
+}
+
+.lnmor{
+    position: absolute;
+    background-color: white;
+    color: black;
+    top: 915px;
+    border-radius: 7px;
+    left: 405px;
+}
+
+.gologo{
+    position: absolute;
+    top:690px;
+    width: 100px;
+    left: 410px;
+}
+
+.tabz{
+    position: absolute;
+    top: 1250px;
+    left: 150px;
+    width: 1200px;
+    height: 70px;
+    border-radius: 20px;
+}
+
+.strip{
+    position: absolute;
+    top:1360px;
+    border-radius: 30px;
+    width: 600px;
+    left: 150px;
+}
+
+.rock{
+    position: absolute;
+    top:1550px;
+    left: 800px;
+    font-weight: bold;
+    font-size: 35px;
+    opacity: 0.9;
+}
+
+.shopstyles{
+    position: absolute;
+    top:1650px;
+    left: 800px;
+    font-weight: bold;
+    font-size: 15px;
+    opacity: 0.6;
+}
+
+.sho{
+    position: absolute;
+    top:1710px;
+    background-color: #0071dd;
+    width: 120px;
+    height: 35px;
+    color: white;
+    border-radius: 5px;
+    left: 800px;
+    border: 1px solid white;
+    transition: 0.6s;
+}
+
+.sho:hover{
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+.whichs{
+    position: absolute;
+    top:2050px;
+    left: 450px;
+    font-weight: bold;
+    font-size: 35px;
+    opacity: 0.9;
+}
+
+.diff1{
+    position: absolute;
+    top:2150px;
+    width: 300px;
+    border-radius: 20px;
+    left: 250px;
+}
+
+.diff2{
+    position: absolute;
+    top:2150px;
+    width: 300px;
+    height: 310px;
+    border-radius: 20px;
+    left: 600px;
+}
+
+.diff3{
+    position: absolute;
+    top:2150px;
+    width: 300px;
+    border-radius: 20px;
+    left: 950px;
+}
+
+.watch2{
+    position: absolute;
+    top:2490px;
+    font-weight: bold;
+    font-size: 22px;
+    opacity: 0.9;
+    left: 250px;
+}
+
+.watch1{
+    position: absolute;
+    top:2490px;
+    font-weight: bold;
+    font-size: 22px;
+    opacity: 0.9;
+    left: 600px;
+}
+
+.fitbit{
+    position: absolute;
+    top:2490px;
+    font-weight: bold;
+    font-size: 22px;
+    opacity: 0.9;
+    left: 950px;
+}
+
+.watinfo2{
+    position: absolute;
+    top:2530px;
+    font-size: 15px;
+    left: 250px;
+}
+
+.watinfo1{
+    position: absolute;
+    top:2530px;
+    font-size: 15px;
+    left: 600px;
+}
+
+.fitbitinfo{
+    position: absolute;
+    top:2530px;
+    font-size: 15px;
+    left: 950px;
+}
+
+.bt1{
+    position: absolute;
+    top:2580px;
+    background-color: #0071dd;
+    width: 100px;
+    font-weight: bold;
+    left: 250px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid white;
+    transition: 0.6s;
+}
+
+.bt1:hover{
+    opacity: 0.9    ;
+    border-radius: 10px;
+}
+
+
+.bt2{
+    position: absolute;
+    top:2580px;
+    background-color: #0071dd;
+    width: 100px;
+    font-weight: bold;
+    left: 600px;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    border: 1px solid white;
+    transition: 0.6s;
+}
+
+.bt2:hover{
+    opacity: 0.9    ;
+    border-radius: 10px;
+}
+
+
+.bt3{
+    position: absolute;
+    top:2580px;
+    background-color: #0071dd;
+    font-size: 15px;
+    width: 100px;
+    font-weight: bold;
+    left: 950px;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid white;
+    transition: 0.6s;
+}
+
+.bt3:hover{
+    opacity: 0.9    ;
+    border-radius: 10px;
+}
+
+.case{
+    position: absolute;
+    top:2640px;
+    font-size: 19px;
+    font-weight: bold;
+    left: 250px;
+}
+
+.hoi{
+    position: absolute;
+    top:2665px;
+    width: 1000px;
+    height: 5px;
+    padding-top: 10px;
+    left: 250px;
+}
+
+.round1{
+    position: absolute;
+    top:2705px;
+    left: 250px;
+    font-size: 14px;
+}
+
+.round2{
+    position: absolute;
+    top:2705px;
+    left: 600px;
+    font-size: 14px;
+}
+.round3{
+    position: absolute;
+    top:2705px;
+    left: 960px;
+    font-size: 14px;
+}
+
+
+.displ{
+    position: absolute;
+    top:2760px;
+    font-size: 19px;
+    font-weight: bold;
+    left: 250px;
+}
+
+.hoi2{
+    position: absolute;
+    top:2785px;
+    width: 1000px;
+    height: 5px;
+    padding-top: 10px;
+    left: 250px;
+}
+
+
+.custom1{
+    position: absolute;
+    top:2825px;
+    left: 250px;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.custom2{
+    position: absolute;
+    top:2825px;
+    left: 600px;
+    font-size: 14px;
+    line-height: 25px;
+}
+.custom3{
+    position: absolute;
+    top:2825px;
+    line-height: 25px;
+    left: 960px;
+    font-size: 14px;
+}
+
+
+.compi{
+    position: absolute;
+    top:2900px;
+    font-size: 18px;
+    font-weight: bold;
+    left: 250px;
+}
+
+.hoi3{
+    position: absolute;
+    top:2925px;
+    width: 1000px;
+    height: 5px;
+    padding-top: 10px;
+    left: 250px;
+}
+
+.andr1{
+    position: absolute;
+    top:2965px;
+    left: 250px;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.andr2{
+    position: absolute;
+    top:2965px;
+    left: 600px;
+    font-size: 14px;
+    line-height: 25px;
+}
+.andr3{
+    position: absolute;
+    top:2965px;
+    line-height: 25px;
+    left: 960px;
+    font-size: 14px;
+}
+
+.health{
+    position: absolute;
+    top:3020px;
+    font-size: 18px;
+    font-weight: bold;
+    left: 250px;
+}
+
+.hoi4{
+    position: absolute;
+    top:3045px;
+    width: 1000px;
+    height: 5px;
+    padding-top: 10px;
+    left: 250px;
+}
+
+
+.fit1{
+    position: absolute;
+    top:3085px;
+    left: 250px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.fit2{
+    position: absolute;
+    top:3085px;
+    left: 600px;
+    font-size: 14px;
+    line-height: 30px;
+}
+.fit3{
+    position: absolute;
+    top:3085px;
+    line-height: 30px;
+    left: 960px;
+    font-size: 14px;
+}
+
+
+.safety{
+    position: absolute;
+    top:3360px;
+    font-size: 18px;
+    font-weight: bold;
+    left: 250px;
+}
+
+.hoi5{
+    position: absolute;
+    top:3380px;
+    width: 1000px;
+    height: 5px;
+    padding-top: 10px;
+    left: 250px;
+}
+
+
+.safe1{
+    position: absolute;
+    top:3415px;
+    left: 250px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.safe2{
+    position: absolute;
+    top:3415px;
+    left: 600px;
+    font-size: 14px;
+    line-height: 30px;
+}
+.safe3{
+    position: absolute;
+    top:3415px;
+    line-height: 30px;
+    left: 960px;
+    font-size: 14px;
+}
+
+
+.produ{
+    position: absolute;
+    top:3560px;
+    font-size: 18px;
+    font-weight: bold;
+    left: 250px;
+}
+
+.hoi6{
+    position: absolute;
+    top:3580px;
+    width: 1000px;
+    height: 5px;
+    padding-top: 10px;
+    left: 250px;
+}
+
+
+
+.assi1{
+    position: absolute;
+    top:3615px;
+    left: 250px;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.assi2{
+    position: absolute;
+    top:3615px;
+    left: 600px;
+    font-size: 14px;
+    line-height: 25px;
+}
+.assi3{
+    position: absolute;
+    top:3615px;
+    line-height: 25px;
+    left: 960px;
+    font-size: 14px;
+}
+
+
+
+.connec{
+    position: absolute;
+    top:3720px;
+    font-size: 18px;
+    font-weight: bold;
+    left: 250px;
+}
+
+.hoi7{
+    position: absolute;
+    top:3740px;
+    width: 1000px;
+    height: 5px;
+    padding-top: 10px;
+    left: 250px;
+}
+
+
+.conn1{
+    position: absolute;
+    top:3785px;
+    left: 250px;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.conn2{
+    position: absolute;
+    top:3785px;
+    left: 600px;
+    font-size: 14px;
+    line-height: 25px;
+}
+.conn3{
+    position: absolute;
+    top:3785px;
+    line-height: 25px;
+    left: 960px;
+    font-size: 14px;
+}
+
+.watmob{
+    position: absolute;
+    top:3950px;
+    width: 600px;
+    left: 800px;
+    border-radius: 25px;
+}
+
+
+.smartwatch{
+    position: absolute;
+    top:4100px;
+    width: 50px;
+    left: 240px;
+}
+
+.levels{
+    position: absolute;
+    top:4180px;
+    left: 250px;
+    font-weight: bold;
+    font-size: 40px;
+    opacity: 0.9;
+}
+
+
+.accessr{
+    position: absolute;
+    top:4350px;
+    left: 250px;
+    font-weight: bold;
+    font-size: 15px;
+    opacity: 0.9;
+    line-height: 25px;
+}
+
+.together{
+    position: absolute;
+    top:4620px;
+    left: 200px;
+    width: 1200px;
+    border-radius: 30px;
+}
+
+.listwat{
+    position: absolute;
+    top:5230px;
+    left: 30px;
+    font-size: 11px;
+    line-height: 25px;
+}
+
+.horizwat{
+    position: absolute;
+    top: 5570px;
+    width: 1200px;
+    left: 130px;
+    padding-bottom: 10px;
+}
+
+.serv1{
+    position: absolute;
+    top:5600px;
+    font-size: 14px;
+    padding-bottom: 15px;
+    left: 570px;
+}
+
+.serv2{
+    position: absolute;
+    top:5600px;
+    font-size: 13px;
+    padding-bottom: 15px;
+    left: 630px;
+}
+
+.serv3{
+    position: absolute;
+    top:5600px;
+    font-size: 13px;
+    padding-bottom: 15px;
+    left: 700px;
+}
+
+.serv4{
+    position: absolute;
+    top:5600px;
+    font-size: 13px;
+    padding-bottom: 15px;
+    left: 950px;
+}
+
+.serv5{
+    position: absolute;
+    top:5600px;
+    font-size: 13px;
+    padding-bottom: 15px;
+    left: 1050px;
+}
+
+
+.serv6{
+    position: absolute;
+    top:5600px;
+    font-size: 13px;
+    padding-bottom: 15px;
+    left: 1180px;
+}

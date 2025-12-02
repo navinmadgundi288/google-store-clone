@@ -1,0 +1,255 @@
+.cho{
+    position: absolute;
+    top:270px;
+    left: 580px;
+    font-weight: bold;
+    font-size: 40px;
+    color: darkslategray;
+}
+
+.tabs1{
+    position: absolute;
+    top:350px;
+    left: 200px;
+    width: 300px;
+    border-radius: 20px;
+    transition: 0.4s;
+}
+
+.tabs1:hover{
+    width: 305px;
+}
+
+#bottom{
+    background: linear-gradient(black);
+    height: 500px;
+}
+
+.tabs2{
+    position: absolute;
+    top:350px;
+    left: 600px;
+    width: 300px;
+    border-radius:20px;
+    transition: 0.4s;
+}
+
+.tabs2:hover{
+    width: 305px;
+}
+
+.tabs3{
+    position: absolute;
+    top:350px;
+    left: 1000px;
+    width: 300px;
+    border-radius: 20px;
+    transition: 0.4s;
+}
+
+.tabs3:hover{
+    width: 305px;
+}
+
+.por{
+    position: absolute;
+    top:680px;
+    left: 300px;
+    color: darkslategray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.haz{
+    position: absolute;
+    top:680px;
+    left: 720px;
+    color: darkslategray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ros{
+    position: absolute;
+    top:680px;
+    left: 1120px;
+    color: darkslategray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tsl{
+    position: absolute;
+    top:780px;
+    left: 200px;
+    font-weight: bold;
+}
+
+.disptab{
+    position: absolute;
+    top:785px;
+    left: 600px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.disspecs{
+    position: absolute;
+    top:820px;
+    left:580px;
+    line-height: 35px;
+}
+
+
+.dimtab{
+    position: absolute;
+    top:1055px;
+    left: 600px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.dimspecs{
+    position: absolute;
+    top:1090px;
+    left:580px;
+    line-height: 35px;
+}
+
+
+.battab{
+    position: absolute;
+    top:1225px;
+    left: 600px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.batspecs{
+    position: absolute;
+    top:1260px;
+    left:580px;
+    line-height: 35px;
+}
+
+.memtab{
+    position: absolute;
+    top:1385px;
+    left: 600px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.memspecs{
+    position: absolute;
+    top:1425px;
+    left:580px;
+    line-height: 35px;
+}
+
+.protab{
+    position: absolute;
+    top:1515px;
+    left: 600px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.prospecs{
+    position: absolute;
+    top:1555px;
+    left:580px;
+    line-height: 35px;
+}
+
+.sectab{
+    position: absolute;
+    top:1645px;
+    left: 600px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.secspecs{
+    position: absolute;
+    top:1685px;
+    left:580px;
+    line-height: 35px;
+}
+
+
+.frotab{
+    position: absolute;
+    top:1955px;
+    left: 605px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.frospecs{
+    position: absolute;
+    top:1995px;
+    left:580px;
+    line-height: 35px;
+}
+
+.reartab{
+    position: absolute;
+    top:2220px;
+    left: 605px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.rearspecs{
+    position: absolute;
+    top:2265px;
+    left:580px;
+    line-height: 35px;
+}
+
+
+.senstab{
+    position: absolute;
+    top:2500px;
+    left: 605px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sensspecs{
+    position: absolute;
+    top:2545px;
+    left:580px;
+    line-height: 35px;
+}
+
+.authtab{
+    position: absolute;
+    top:2740px;
+    left: 605px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.authspecs{
+    position: absolute;
+    top:2785px;
+    left:580px;
+    line-height: 35px;
+}
+
+.boxtab{
+    position: absolute;
+    top:2880px;
+    left: 605px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.boxspecs{
+    position: absolute;
+    top:2920px;
+    left:580px;
+    line-height: 35px;
+}

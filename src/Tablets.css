@@ -1,0 +1,571 @@
+body
+{
+
+}
+
+.pixtab{
+    position: absolute;
+    top:240px;
+    left: 50px;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+
+.porcelin{
+    position: absolute;
+    top:290px;
+    width: 430px;
+    height: 300px;
+    left: 50px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.hazel{
+    position: absolute;
+    top:290px;
+    width: 440px;
+    height: 300px;
+    left: 520px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.rose{
+    position: absolute;
+    top:290px;
+    width: 440px;
+    height: 300px;
+    left: 1000px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.over{
+    position: absolute;
+    top:240px;
+    left: 200px;
+    border-radius: 20px;
+    width: 90px;
+    height: 26px;
+    padding: 0px;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #e0ffff ;
+    color: blue;
+    border: 1px solid blue;
+}
+
+
+.tespecs{
+    position: absolute;
+    top:240px;
+    left: 300px;
+    border-radius: 20px;
+    width: 90px;
+    height: 26px;
+    padding: 0px;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #d8f5ff;
+    color: #8ee2ff;
+    border: 1px solid blue;
+}
+
+.tabgoo{
+    position: absolute;
+    top:650px;
+    font-weight: bold;
+    font-size: 30px;
+    color: darkslategray;
+    left: 500px;
+}
+
+.explo{
+    position: absolute;
+    top:703px;
+    left: 670px;
+    font-size: 17px;
+    font-weight: bold;
+    color: red;
+}
+
+.playvid{
+    position: absolute;
+    top:703px;
+    left: 645px;
+    width: 16px;
+}
+
+.stand{
+    position: absolute;
+    top:760px;
+    width: 30px;
+    left: 300px;
+}
+
+.includ{
+    position: absolute;
+    top:800px;
+    left: 250px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.g2{
+    position: absolute;
+    top:760px;
+    width: 30px;
+    left: 500px;
+}
+
+.g2info{
+    position: absolute;
+    top:800px;
+    left: 450px;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+.playv{
+    position: absolute;
+    top:760px;
+    width: 35px;
+    left: 710px;
+}
+
+.playvinfo{
+    position: absolute;
+    top:800px;
+    left: 650px;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+.pair{
+    position: absolute;
+    top:760px;
+    width: 30px;
+    left: 920px;
+}
+
+.pairinfo{
+    position: absolute;
+    top:800px;
+    left: 850px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.home{
+    position: absolute;
+    top:760px;
+    width: 27px;
+    left: 1130px;
+}
+
+.homeinfo{
+    position: absolute;
+    top:800px;
+    left: 1080px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.tab11{
+    position: absolute;
+    top:900px;
+    width: 1000px;
+    left: 240px;
+    border-radius: 30px;
+}
+
+.longtab{
+    position: absolute;
+    top:1520px;
+    width: 400px;
+    height: 480px;
+    left: 240px;
+    border-radius: 30px;
+}
+
+.fasttab{
+    position: absolute;
+    top:1520px;
+    width: 570px;
+    left: 650px;
+    border-radius: 30px;
+}
+
+.vidtab{
+    position: absolute;
+    top:2010px;
+    width: 490px;
+    left: 740px;
+    border-radius: 30px;
+}
+
+.docktab{
+    position: absolute;
+    top:2010px;
+    width: 490px;
+    left: 240px;
+    border-radius: 30px;
+}
+
+.chargi{
+    position: absolute;
+    top:2540px;
+    font-size: 20px;
+    left:600px;
+    font-weight: bold;
+}
+
+
+.mock{
+    position: absolute;
+    top:2580px;
+    font-size: 35px;
+    left:450px;
+    font-weight: bold;
+}
+
+.playvtab{
+    position: absolute;
+    top:2640px;
+    width: 700px;
+    left: 30px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+.playvtab2{
+    position: absolute;
+    top:2640px;
+    width: 700px;
+    left: 790px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+.charre{
+    position: absolute;
+    top:3160px;
+    left: 270px;
+    font-size: 20px;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+
+.charinfo{
+    position: absolute;
+    top:3190px;
+    left: 180px;
+    text-align: center;
+    font-size: 13px;
+    line-height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+}
+
+
+.roomre{
+    position: absolute;
+    top:3160px;
+    left: 1070px;
+    font-size: 20px;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+
+.roominfo{
+    position: absolute;
+    top:3190px;
+    left: 980px;
+    text-align: center;
+    font-size: 13px;
+    line-height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+}
+
+.pixport{
+    position: absolute;
+    top:3270px;
+    left: 700px;
+    font-size: 15px;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+.itw{
+    position: absolute;
+    top:3300px;
+    left: 500px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.sea1{
+    position: absolute;
+    top:3420px;
+    left: 240px;
+    width: 480px;
+    border-radius: 15px;
+}
+
+.sea2{
+    position: absolute;
+    top:3420px;
+    left: 740px;
+    width: 470px;
+    border-radius: 15px;
+}
+
+.sea1info1{
+    position: absolute;
+    top:3920px;
+    left: 870px;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.sea1info2{
+    position: absolute;
+    top:3960px;
+    left: 760px;
+    font-size: 13px;
+    text-align: center;
+    line-height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.sea2info1{
+    position: absolute;
+    top:3920px;
+    left: 330px;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.sea2info2{
+    position: absolute;
+    top:3960px;
+    left: 260px;
+    font-size: 13px;
+    text-align: center;
+    line-height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.acce{
+    position: absolute;
+    top:4050px;
+    left: 570px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.tab01{
+    position: absolute;
+    top:4150px;
+    width: 600px;
+    border-radius: 15px;
+    height: 300px;
+    left: 250px;
+}
+
+video {
+    box-shadow: 0px 0px 5px grey(0, 0, 0, 0.5); /* Adds a shadow to the video */
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* To hide the default video controls */
+  /* video::-webkit-media-controls {
+    display: none !important;
+  }
+  
+  video::-webkit-media-controls-enclosure {
+    display: none !important;
+  }
+  
+  video::-webkit-media-controls-play-button {
+    display: none !important;
+  }
+  
+  video::-webkit-media-controls-start-playback-button {
+    display: none !important;
+  }
+   */
+
+
+   .vidp{
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.5); /* Adds a shadow to the video */
+    position: absolute;
+    top:4120px;
+    width: 480px;
+    height: 400px;
+    left: 240px;
+  }
+
+
+  .vido{
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.5); /* Adds a shadow to the video */
+    position: absolute;
+    top:4120px;
+    width: 480px;
+    height: 400px;
+    left: 740px;
+  }
+  
+
+  .pio{
+    position: absolute;
+    top:4600px;
+    left: 530px;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .gone{
+    position: absolute;
+    top:4740px;
+    width: 30px;
+    left: 550px;
+  }
+
+  .gyou{
+    position: absolute;
+    top:4740px;
+    left: 900px;
+    width: 30px;
+  }
+
+  .mon1{
+    position: absolute;
+    top:4780px;
+    left: 480px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .mon2{
+    position: absolute;
+    top:4780px;
+    left: 820px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .ghelp{
+    position: absolute;
+    top:4910px;
+    left: 440px;
+    line-height: 22px;
+    font-size: 13px;
+    text-align: center;
+  }
+
+  .ghelp2{
+    position: absolute;
+    top:4910px;
+    left: 770px;
+    text-align: center;
+    line-height: 22px;
+    font-size: 13px;
+  }
+
+  ol{
+    position: absolute;
+    top:5100px;
+    left: 100px;
+  }
+
+  h5{
+    font-size: 10px;
+  }
+
+  .horizen{
+    position: absolute;
+    top:5340px;
+    width: 1500px;
+    left: 10px;
+    padding-bottom: 0px;
+  }
+
+
+  .indz{
+    position: absolute;
+    top:5360px;
+    padding: 10px;
+    left: 800px;
+  }
+
+  .priz{
+    position: absolute;
+    top:5360px;
+    padding: 10px;
+    left: 870px;
+  }
+
+  .goozs{
+    position: absolute;
+    top:5360px;
+    padding: 10px;
+    left: 950px;
+  }
+
+  .salz{
+    position: absolute;
+    top:5360px;
+    padding: 10px;
+    left: 1150px;
+  }
+
+  .terz{
+    position: absolute;
+    top:5360px;
+    padding: 10px;
+    left: 1250px;
+  }
+
+  .tecsp{
+    position: absolute;
+    top:245px;
+    left: 200px;
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+  }
+
+  .tecsp::after{
+    content: '';
+    position: absolute;
+    left:0;
+    bottom: -5px;
+    height: 2px;
+    width: 0%;
+    background-color: blue;
+    transition: all ease 1s;
+  }
+  
+  .tecsp:hover::after{
+    width: 100%;
+  }
+  

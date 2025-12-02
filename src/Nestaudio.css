@@ -1,0 +1,881 @@
+
+.pix710{
+  font-size: 25px;
+}
+
+  
+  .pix710{
+  position: absolute;
+  bottom: 480px;
+  left:30px;
+  font-family: Google Sans,Roboto, Arial, sans-serif;
+  font-weight: bold;
+  }
+  
+  .fretailers10{
+    width: 220px;
+    height: 40px;
+    background-color:#0071dd;
+    color: white;
+    font-size: 22px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    border: 2px solid white;
+    right: 20px;
+    top:235px;
+    font-weight: bold;
+  }
+  
+  .fretailers11{
+    width: 220px;
+    height: 40px;
+    background-color:green;
+    color: white;
+    font-size: 22px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    border: 2px solid white;
+    right: 250px;
+    top:235px;
+    font-weight: bold;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .dev1v{
+    position: absolute;
+    top:2540px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    left: 110px;
+  }
+  
+  .ind1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 730px;
+  }
+  
+  .pri1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 800px;
+  }
+  
+  
+  .goog1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 880px;
+  }
+  
+  
+  .sale1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 1110px;
+  }
+  
+  .term1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 1200px;
+  }
+
+
+  .know10{
+    font-size: 55px;
+    position: absolute;
+    top:290px;
+    left: 585px;
+    color: darkslategray;
+  }
+
+  .out10{
+    font-size: 55px;
+    position: absolute;
+    top:360px;
+    color: darkslategray;
+    left: 550px;
+  }
+
+  .see10{
+    font-size: 20px;
+    position: absolute;
+    top:440px;
+    left: 700px;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+
+.ta1{
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    position: absolute;
+    top:1050px;
+    left: 200px;
+    font-weight: bold;
+    color:darkslategray;
+}
+
+.ta2{
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    position: absolute;
+    top:1050px;
+    left: 700px;
+    font-weight: bold;
+    color:darkslategray;
+}
+
+
+.ta3{
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    position: absolute;
+    top:1050px;
+    left: 1100px;
+    font-weight: bold;
+    color:darkslategray;
+}
+
+.ti1{
+    width: 450px;
+    height: 150px;
+    position: absolute;
+    top:1080px;
+    left: 100px;
+}
+
+.ti2{
+    width: 450px;
+    height: 150px;
+    position: absolute;
+    top:1080px;
+    left: 550px;
+}
+
+.ti3{
+    width: 450px;
+    height: 150px;
+    position: absolute;
+    top:1080px;
+    left: 1000px;
+}
+
+
+.i1{
+    font-size: 32px;
+    position: absolute;
+    top:1250px;
+    left: 580px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    color: grey;
+}
+
+.i2{
+    font-size: 32px;
+    position: absolute;
+    top:1290px;
+    left: 620px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    color: grey;
+}
+
+
+.lg1{
+    position: absolute;
+    top:1340px;
+    height: 150px;
+    left: 530px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+
+.su{
+    position: absolute;
+    top:1490px;
+    height: 70px;
+    left: 610px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+
+video{
+  width: 1400px;
+  position: absolute;
+  top:1620px;
+  left: 70px;
+  height: 500px;
+  border-radius: 55px;
+}
+
+.ts1{
+  border: 2px solid green;
+  position: absolute;
+  top:240px;
+  left: 200px;
+  background-color: aliceblue;
+  border-radius: 25px;
+  width: 110px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.ts2{
+    border: 2px solid green;
+    position: absolute;
+    top:240px;
+    left: 320px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    width: 110px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+
+  .ts3{
+    border: 2px solid green;
+    position: absolute;
+    top:240px;
+    left: 440px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    width: 110px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+
+  .ts4{
+    border: 2px solid green;
+    position: absolute;
+    top:240px;
+    left: 560px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    width: 110px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+
+  .pix1{
+    width: 1500px;
+    height: 650px;
+    position: absolute;
+    top:510px;
+    left: 10px;
+    border: 2px solid white;
+  }
+
+  .cap1{
+    position: absolute;
+    top:1250px;
+    left: 450px;
+    font-size:32px;
+    font-weight: bold;
+    color: darkslategray;
+  }
+
+  .cap2{
+    position: absolute;
+    top:1290px;
+    left: 680px;
+    font-size:32px;
+    font-weight: bold;
+    color: darkslategray;
+  }
+
+  .pij1{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top:1380px;
+    left: 420px;
+  }
+
+  .pij2{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top:1380px;
+    left: 800px;
+  }
+
+  .pij3{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top:1380px;
+    left: 1150px;
+  }
+
+
+  .assis1{
+    position: absolute;
+    top:1430px;
+    font-size: 20px;
+    font-weight: bold;
+    left: 330px;
+  }
+
+  .assis2{
+    position: absolute;
+    top:1460px;
+    font-size: 17px;
+    left: 290px;
+  }
+
+
+
+  .musi1{
+    position: absolute;
+    top:1430px;
+    font-size: 20px;
+    font-weight: bold;
+    left: 670px;
+  }
+
+  .musi2{
+    position: absolute;
+    top:1460px;
+    font-size: 17px;
+    left: 650px;
+  }
+
+
+  .hom1{
+    position: absolute;
+    top:1430px;
+    font-size: 20px;
+    font-weight: bold;
+    left: 1050px;
+  }
+
+  .hom2{
+    position: absolute;
+    top:1460px;
+    font-size: 17px;
+    left: 1060px;
+  }
+
+
+  .pif1{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    top:1520px;
+    left: 780px;
+  }
+
+  .okg{
+    position: absolute;
+    top:1610px;
+    font-size: 50px;
+    font-weight: bold;
+    left: 560px;
+    color: gray;
+  }
+
+
+  .det{
+    position: absolute;
+    top:1690px;
+    font-size: 17px;
+    font-weight: bold;
+    left: 590px;
+  }
+
+
+  .sound{
+    position: absolute;
+    top:1750px;
+    font-size: 40px;
+    font-weight: bold;
+    left: 490px;
+    color: darkgreen;
+  }
+
+
+  .pij4{
+    position: absolute;
+    height: 530px;
+    width: 950px;
+    top:1850px;
+    left: 530px;
+    border: 2px solid white;
+   
+  }
+
+
+  .hea1{
+    position: absolute;
+    top:1890px;
+    left: 100px;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+  }
+
+  .hea2{
+    position: absolute;
+    top:1930px;
+    left: 100px;
+    font-size: 17px;
+    color: grey;
+  }
+
+  .hea3{
+    position: absolute;
+    top:1950px;
+    left: 100px;
+    font-size: 17px;
+    color: grey;
+  }
+
+  .hea4{
+    position: absolute;
+    top:1970px;
+    left: 100px;
+    font-size: 17px;
+    color: grey;
+  }
+
+  .hea5{
+    position: absolute;
+    top:1990px;
+    left: 100px;
+    font-size: 17px;
+    color: grey;
+  }
+
+
+  .hea6{
+    position: absolute;
+    top:2040px;
+    left: 100px;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+  }
+
+
+  .hea7{
+    position: absolute;
+    top:2080px;
+    left: 100px;
+    font-size: 17px;
+    color: grey;
+  }
+
+
+  .hea8{
+    position: absolute;
+    top:2100px;
+    left: 100px;
+    font-size: 17px;
+    color: grey;
+  }
+
+  .hea9{
+    position: absolute;
+    top:2120px;
+    left: 100px;
+    font-size: 17px;
+    color: grey;
+  }
+
+  .hea10{
+    position: absolute;
+    top:2140px;
+    left: 100px;
+    font-size: 17px;
+    color: grey;
+  }
+
+
+  .pif2{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    top:2450px;
+    left: 730px;
+    border: 2px solid white;
+    border-radius: 15px;
+  }
+
+
+  .twi{
+    position: absolute;
+    top:2520px;
+    left: 500px;
+    font-weight: bold;
+    font-size: 50px;
+  }
+
+
+  .par{
+    position: absolute;
+    top:2590px;
+    left: 480px;
+    font-weight: bold;
+    font-size: 20px;
+    color: grey;
+  }
+
+
+
+  .pif3{
+    position: absolute;
+    height: 650px;
+    width: 1360px;
+    top:2650px;
+    left: 70px;
+    border: 2px solid white;
+
+  }
+
+  .pif4{
+    position: absolute;
+    height: 390px;
+    width: 330px;
+    top:3350px;
+    left: 200px;
+    border: 2px solid white;
+  }
+
+  .pif5{
+    position: absolute;
+    height: 390px;
+    width: 330px;
+    top:3350px;
+    left: 620px;
+    border: 2px solid white;
+  }
+
+  .pif6{
+    position: absolute;
+    height: 390px;
+    width: 330px;
+    top:3350px;
+    left: 1020px;
+    border: 2px solid white;
+  
+  }
+
+  .here{
+    position: absolute;
+    top:3780px;
+    left:500px;
+    font-size: 35px;
+    font-weight: bold;
+    color: darkslategray;
+  }
+
+
+  .there{
+    position: absolute;
+    top:3840px;
+    left:300px;
+    font-size: 14px;
+    font-weight: bold;
+    color: darkslategray;
+  }
+
+
+
+  .pif7{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top:3900px;
+    left: 740px;
+    border: 2px solid white;
+  
+  }
+
+
+  .con1{
+    position: absolute;
+    top:3980px;
+    font-weight: bold;
+    font-size: 50px;
+    color: darkslategray;
+    left:540px;
+  }
+
+
+  .con2{
+    position: absolute;
+    top:4030px;
+    font-weight: bold;
+    font-size: 50px;
+    color: darkslategray;
+    left:550px;
+  }
+
+  .con3{
+    position: absolute;
+    top:4080px;
+    font-weight: bold;
+    font-size: 50px;
+    color: darkslategray;
+    left:700px;
+  }
+
+
+  .con4{
+    position: absolute;
+    top:4160px;
+    font-size: 17px;
+    color: darkslategray;
+    left:520px;
+  }
+
+  .con5{
+    position: absolute;
+    top:4190px;
+    
+    font-size: 17px;
+    color: darkslategray;
+    left:520px;
+  }
+
+  .con6{
+    position: absolute;
+    top:4250px;
+    font-size: 30px;
+    font-weight: bold;
+    color: darkslategray;
+    left:600px;
+  }
+
+
+  .pif8{
+    position: absolute;
+    height: 620px;
+    width: 1360px;
+    top:4300px;
+    left: 70px;
+    border: 2px solid white;
+  }
+
+
+
+  .pif9{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top:4950px;
+    left: 740px;
+    border: 2px solid white;
+  
+  }
+
+
+  .has1{
+    position: absolute;
+    top:5000px;
+    left: 530px;
+    font-size: 40px;
+    font-weight: bold;
+    color: darkslategray;
+  }
+
+  .has2{
+    position: absolute;
+    top:5050px;
+    left: 480px;
+    font-size: 40px;
+    font-weight: bold;
+    color: darkslategray;
+  }
+
+  .has3{
+    position: absolute;
+    top:5100px;
+    left: 570px;
+    font-size: 40px;
+    font-weight: bold;
+    color: darkslategray;
+  }
+
+  .btnc{
+    position: absolute;
+    top:5170px;
+    left: 710px;
+    background-color: white;
+    color: #0071dd;
+    border: 2px solid #0071dd;
+    border-radius: 7px;
+    width: 100px;
+    height: 35px;
+    font-weight: bold;
+  }
+
+
+  .has4{
+    position: absolute;
+    top:5220px;
+    left: 550px;
+    font-size: 15px;
+    color: gray;
+  }
+
+  ol{
+    position: absolute;
+    top:5270px;
+    font-size: 12px;
+    left: 200px;
+    
+  }
+
+
+  .twitter1b{
+    width: 18px;
+    position: absolute;
+    right: 1390px;
+    top:5520px;
+  }
+  
+  .instagram1b{
+    width: 18px;
+    position: absolute;
+    right: 1365px;
+    top:5520px;
+  }
+  
+  .facebook1b{
+    width: 18px;
+    position: absolute;
+    right: 1340px;
+    top:5520px;
+  }
+  
+  .youtube1b{
+    width: 20px;
+    position: absolute;
+    right: 1312px;
+    top:5520px;
+  }
+  
+  .tiktok1b{
+    width: 18px;
+    position: absolute;
+    right: 1288px;
+    top:5520px;
+  }
+  
+  .india1b{
+    width: 25px;
+    position: absolute;
+    right: 800px;
+    top:5560px;
+  }
+
+
+  .coun1b{
+    position: absolute;
+    top:5440px;
+    right: 350px;
+    font-size: 15px;
+  }
+  
+  .help1b{
+    position: absolute;
+    top: 5440px;
+    right: 200px;
+    font-size: 15px;
+  }
+  
+  .walk1b{
+    position: absolute;
+    top: 5480px;
+    right: 335px;
+    font-size: 15px;
+  }
+  
+  .cont1b{
+    position: absolute;
+    top: 5480px;
+    right: 205px;
+    font-size: 15px;
+  }
+  
+  
+  .disa1b{
+    position: absolute;
+    top: 5520px;
+    right: 360px;
+    font-size: 15px;
+  }
+  
+  .devi1b{
+    position: absolute;
+    top: 5520px;
+    right: 165px;
+    font-size: 15px;
+  }
+
+
+  .ind1b{
+    position: absolute;
+    top:5565px;
+    font-size: 12px;
+    left: 730px;
+  }
+  
+  .pri1b{
+    position: absolute;
+    top:5565px;
+    font-size: 12px;
+    left: 800px;
+  }
+  
+  
+  .goog1b{
+    position: absolute;
+    top:5565px;
+    font-size: 12px;
+    left: 880px;
+  }
+  
+  
+  .sale1b{
+    position: absolute;
+    top:5565px;
+    font-size: 12px;
+    left: 1110px;
+  }
+  
+  .term1b{
+    position: absolute;
+    top:5565px;
+    font-size: 12px;
+    left: 1200px;
+  }
+
+  .dev1b{
+    position: absolute;
+    top:5560px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    left: 110px;
+  }

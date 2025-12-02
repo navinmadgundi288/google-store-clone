@@ -1,0 +1,359 @@
+.input-box1{
+    position: absolute;
+    width: 270px;
+
+  }
+  .input-box1 input{
+    width: 129%;
+    height: 27%;
+    padding: 18px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 8px;
+    /* background-color: #1d2b3a; */
+    outline: none;
+    transition: 0.5s;
+    color: #000;
+    font-size: 1em;
+    border: 1px solid #d3d3d3;
+    position: absolute;
+    top:-120px;
+
+  }
+  
+  .input-box1 span{
+    position: absolute;
+    left: 0;
+    top:-122px;
+    padding: 9px;
+    pointer-events: none;
+    font-size: 1em;
+    /* color: rgba(255, 255, 255, 0.25); */
+    color: #000;
+    transition: 0.2s;
+    font-size: 17px;
+    font-weight: bold;
+    color: darkslategray;
+    /* text-transform: uppercase; */
+  }
+  .input-box1 input:valid ~ span,
+  .input-box1 input:focus ~ span{        
+    transform: translateX(10px) translateY(-7px);
+    font-size: 0.65em;
+    padding: 0 10px;
+    /* background-color: #000; */
+    color: #156fcf;
+    background-color: #fff;
+    font-weight: 800;
+    border-left: 1px solid #156fcf;
+    border-right: 1px solid #156fcf;
+    border-top: 1px solid #156fcf;
+    border-bottom: 1px solid #156fcf;  
+    border-radius: 5px;
+    position: absolute;
+  
+    /* border: 2px; */
+    letter-spacing: 0.2em;
+  }
+  
+  /* .input-box:nth-child(2) input:valid ~ span,
+  .input-box:nth-child(2) input:focus ~ span{        
+    color: #1d2b3a;
+    background-color: #00dfc4;
+    border: 2px;
+  } */
+  
+  .input-box1:nth-child(1){
+    position: relative;
+    top: -10px;
+    left: -150px;
+  }
+  
+  .input-box1:nth-child(2){
+    position: relative;
+    top: -50px;
+    left: 150px;
+  }
+  
+  .input-box1:nth-child(3){
+    position: relative;
+    top: -10px;
+    left: -150px;
+  }
+  
+  .input-box1:nth-child(4){
+    position: relative;
+    top: -50px;
+    left: 150px;
+  }
+  
+  .input-box1:nth-child(5){
+    position: relative;
+    top: -10px;
+    left: -150px;
+  }
+  
+  .input-box1:nth-child(6){
+    position: relative;
+    top: -50px;
+    left: 150px;
+  }
+  
+  .input-box1 input:valid,
+  .input-box1 input:focus{
+    border: 1px solid #156fcf;
+  }
+  
+  form{
+    position: absolute;
+    top: 250px;
+    left: 560px;
+    width: 400px;
+    height: 420px;
+    border: 1px solid black;
+    background-color:white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .container{
+    position: absolute;
+    top: 300px;
+    left: 160px;  
+  }
+  
+  .stbn{
+    position: relative;
+    left: -20px;
+    top: 20px;
+    width: 80px;
+    height: 30px;
+    outline: none;
+    border-radius: 6px;
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #156fcf;
+    padding: -5px;
+  }
+  
+  .stbn:hover{
+    opacity: 0.8 ;
+  }
+  
+  .title{
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    top: 40px;
+    left: 27%;
+    color: #2f3639;
+  }
+  
+  .desc{
+    position: absolute;
+    top: 90px;
+    left: 35%;
+    font-size: 20px;
+    color: gray
+  }
+  
+  .desc2{
+    position: absolute;
+    top: 125px;
+    left: 35%;
+    font-size: 11px;
+    color: gray
+  }
+  
+  .hr1{
+    border: 1px solid #d3d3d3;
+    width: 100px;
+    position: absolute;
+    top: 118px;
+    left: 25px;
+  }
+  .hr2{
+    border: 1px solid #d3d3d3;
+    width: 100px;
+    position: absolute;
+    top: 116px;
+    right: 25px;
+  }
+  
+  /*  */
+  .google{
+    position: absolute;
+    top: 40px;
+    left: 80px;
+  }
+  
+  .google .btn-text{
+    position: absolute;
+    top: 25px;
+    border-radius: 4px;
+    left: 35px;
+    text-align: center;
+    align-items: center;
+    padding: 2px;
+    width: 180px;
+    height: 33px;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    border: 1px solid grey;
+  }
+
+  .glog{
+    width: 22px;
+    position: absolute;
+    left: 5px;
+    top: 30px;
+  }
+
+
+
+
+
+
+
+  .input-box2{
+    position: absolute;
+    width: 270px;
+  }
+  .input-box2 input{
+    width: 129%;
+    height: 27%;
+    padding: 18px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 8px;
+    /* background-color: #1d2b3a; */
+    outline: none;
+    transition: 0.5s;
+    color: #000;
+    font-size: 1em;
+    border: 1px solid #d3d3d3;
+    position: absolute;
+    top:-30px;
+    left: -00px;
+  }
+  
+  .input-box2 span{
+    top:-33px;
+    padding: 9px;
+    position: absolute;
+    left: -00px;
+    padding: 10px;
+    pointer-events: none;
+    font-size: 1em;
+    /* color: rgba(255, 255, 255, 0.25); */
+    color: #000;
+    transition: 0.2s;
+    font-weight: bold;
+    font-size: 17px;
+    color: darkslategray;
+  }
+  .input-box2 input:valid ~ span,
+  .input-box2 input:focus ~ span{        
+    transform: translateX(10px) translateY(-7px);
+    font-size: 0.65em;
+    padding: 0 10px;
+    /* background-color: #000; */
+    color: #156fcf;
+    background-color: #fff;
+    font-weight: 800;
+    border-left: 1px solid #156fcf;
+    border-right: 1px solid #156fcf;
+    border-top: 1px solid #156fcf;
+    border-bottom: 1px solid #156fcf;  
+    border-radius: 5px;
+  
+    /* border: 2px; */
+    letter-spacing: 0.2em;
+  }
+  
+  /* .input-box:nth-child(2) input:valid ~ span,
+  .input-box:nth-child(2) input:focus ~ span{        
+    color: #1d2b3a;
+    background-color: #00dfc4;
+    border: 2px;
+  } */
+  
+  .input-box2:nth-child(1){
+    position: relative;
+    top: -10px;
+    left: -150px;
+  }
+  
+  .input-box2:nth-child(2){
+    position: relative;
+    top: -50px;
+    left: 150px;
+  }
+  
+  .input-box2:nth-child(3){
+    position: relative;
+    top: -10px;
+    left: -150px;
+  }
+  
+  .input-box2:nth-child(4){
+    position: relative;
+    top: -50px;
+    left: 150px;
+  }
+  
+  .input-box2:nth-child(5){
+    position: relative;
+    top: -10px;
+    left: -150px;
+  }
+  
+  .input-box2:nth-child(6){
+    position: relative;
+    top: -50px;
+    left: 150px;
+  }
+  
+  .input-box2 input:valid,
+  .input-box2 input:focus{
+    border: 1px solid #156fcf;
+  }
+
+
+  .desc3{
+    position: absolute;
+    top: -75px;
+    left: 28%;
+    font-size: 13px;
+    color: gray
+  }
+
+
+  .desc4{
+    position: absolute;
+    top: 75px;
+    left: -33%;
+    font-size: 13px;
+    color: gray
+  }
+
+  .desc5{
+    position: absolute;
+    top: 75px;
+    left: -6%;
+    font-size: 13px;
+    color: green;
+    font-weight: bold;
+  }
+
+
+  .desc6{
+    position: absolute;
+    top: 15px;
+    left: 30%;
+    font-size: 22px;
+    color: darkslategray;
+    font-weight: bold;
+  }

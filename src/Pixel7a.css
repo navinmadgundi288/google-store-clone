@@ -1,0 +1,818 @@
+.pics11{
+    width: 650px;
+    height: 290px;
+    position: absolute;
+    top:330px;
+    left: 90px;
+    border-radius: 15px;
+}
+
+.pics2{
+    width: 510px;
+    height: 320px;
+    position: absolute;
+    top:320px;
+    left: 490px;
+}
+.pics13{
+    width: 650px;
+    height: 290px;
+    position: absolute;
+    top:330px;
+    left: 780px;
+    border-radius: 15px;
+}
+
+.tz1{
+    position: absolute;
+    left: 400px;
+    font-size: 22px;
+    top:630px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.t2{
+    position: absolute;
+    left: 720px;
+    font-size: 24px;
+    top:660px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.tz3{
+    position: absolute;
+    left: 1070px;
+    font-size: 22px;
+    top:630px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.chk{
+  position: absolute;
+  top:245px;
+  left: 180px;
+  font-size: 15px;
+  color: #0071dd;
+  font-weight: bold;
+}
+
+.userp{
+    width: 650px;
+    height: 650px;
+    position: absolute;
+    top:800px;
+    right: 50px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+.head{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:900px;
+    left: 100px;
+}
+
+.para1{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:940px;
+    left: 100px;
+    text-align: left;
+}
+
+.para2{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:965px;
+    left: 100px;
+    text-align: left;
+}
+
+.para3{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:988px;
+    left: 100px;
+    text-align: left;
+}
+
+
+
+
+.head2{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:1050px;
+    left: 100px;
+}
+
+.para4{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1090px;
+    left: 100px;
+    text-align: left;
+}
+
+.para5{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1115px;
+    left: 100px;
+    text-align: left;
+}
+
+.para6{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1140px;
+    left: 100px;
+    text-align: left;
+}
+
+
+
+.heads3{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:1200px;
+    left: 200px;
+}
+
+.paras7{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1235px;
+    left: 200px;
+    text-align: left;
+}
+
+.paras8{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1260px;
+    left: 200px;
+    text-align: left;
+}
+
+.paras9{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1285px;
+    left: 200px;
+    text-align: left;
+}
+
+
+
+.head4{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:1340px;
+    left: 100px;
+}
+
+.para10{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1375px;
+    left: 100px;
+    text-align: left;
+}
+
+.para11{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1400px;
+    left: 100px;
+    text-align: left;
+}
+
+.para12{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1425px;
+    left: 100px;
+    text-align: left;
+}
+
+.para13{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1450px;
+    left: 100px;
+    text-align: left;
+}
+
+
+.navs{
+    position: absolute;
+    top:1510px;
+    left: 140px;
+    height: 150px;
+    width: 1300px;
+    border: 2px solid white;
+    border-radius: 15px;
+
+}
+
+
+.auths{
+   
+    position: absolute;
+    top:1670px;
+    right: 480px;
+    font-size: 40px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    color: dark;
+    letter-spacing: 1px;
+
+  }
+
+  .flips{
+    border: 1px solid grey;
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    top:1740px;
+    left: 660px;
+  }
+
+
+  .buys{
+    width: 200px;
+    height: 50px;
+    background-color:#0071dd;
+    color: white;
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    border: 2px solid white;
+    right: 610px;
+    top:1910px;
+    border: 2px solid white;
+  }
+
+
+  .techs{
+    position: absolute;
+    top:2000px;
+    right: 1150px;
+    font-size: 35px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    color: darkslategray;
+  }
+
+  .para14s{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2010px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.lists{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2050px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para15{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2250px;
+    left: 780px;
+    text-align: left;
+}
+
+.pics101
+{
+  position: absolute;
+  width: 30px;
+  top:235px;
+  left: 140px;
+}
+
+
+.list2{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2300px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit2{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para16{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2470px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list3{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2500px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit3{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+
+.para17{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2590px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list4{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2620px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit4{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para18{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2700px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list5{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2730px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit5{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+.para19{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2850px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list6{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2880px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit6{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para20{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3000px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list7{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3030px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit7{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+.para21{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3070px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list8{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3100px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit8{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+.specs2{
+    position: absolute;
+    top:3150px;
+    right: 1050px;
+    font-size: 33px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    color: darkslategray;
+  }
+
+
+  .list9{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3150px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit9{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+.lists10{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: darkslategray;
+    position: absolute;
+    top:3300px;
+    left: 20px;
+    text-align: center;
+}
+
+.lit10, .lit11, .lit12, .lit13, .lit14, .lit15, .lit16, .lit17, .lit18, .lit19, .lit20, .lit21, .lit22, .lit23{
+    font-size: 13px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    text-align: justify;
+}
+
+
+
+.couns1{
+    position: absolute;
+    bottom: -3100px;
+    right: 350px;
+  }
+  
+  .helps1{
+    position: absolute;
+    bottom: -3100px;
+    right: 200px;
+  }
+  
+  .walks1{
+    position: absolute;
+    bottom: -3140px;
+    right: 335px;
+  }
+  
+  .conts1{
+    position: absolute;
+    bottom: -3140px;
+    right: 205px;
+  }
+  
+  
+  .disas1{
+    position: absolute;
+    bottom: -3180px;
+    right: 360px;
+  }
+  
+  .devis1{
+    position: absolute;
+    bottom: -3180px;
+    right: 165px;
+  }
+  
+  
+  .twitters1{
+    width: 18px;
+    position: absolute;
+    right: 1390px;
+    top:3950px;
+  }
+  
+  .instagrams1{
+    width: 18px;
+    position: absolute;
+    right: 1365px;
+    top:3950px;
+  }
+  
+  .facebooks1{
+    width: 18px;
+    position: absolute;
+    right: 1340px;
+    top:3950px;
+  }
+  
+  .youtubes1{
+    width: 20px;
+    position: absolute;
+    right: 1312px;
+    top:3950px;
+  }
+  
+  .tiktoks1{
+    width: 18px;
+    position: absolute;
+    right: 1288px;
+    top:3950px;
+  }
+  
+  .indias1{
+    width: 25px;
+    position: absolute;
+    right: 800px;
+    top:3950px;
+  }
+  
+  .prod1{
+  position: absolute;
+  top:300px;
+  left: 50px;
+  }
+  
+  .conhome1{
+    position: absolute;
+    top:330px;
+    left: 50px;
+  }
+  
+  .phones1{
+    position: absolute;
+    top:360px;
+    left: 50px;
+  }
+  
+  .access1{
+    position: absolute;
+    top:390px;
+    left: 50px;
+  }
+  
+  label1{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+  }
+  
+  .pix71{
+  position: absolute;
+  bottom: 480px;
+  left:30px;
+  font-family: Google Sans,Roboto, Arial, sans-serif;
+  font-weight: bold;
+  color: darkslategray;
+  }
+  
+  .fretailers1{
+    width: 250px;
+    height: 50px;
+    background-color:#0071dd;
+    color: white;
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    border: 2px solid white;
+    right: 20px;
+    top:250px;
+  }
+  
+  
+  
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .devs1{
+    position: absolute;
+    top:3990px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    left: 110px;
+  }
+  
+  .inds1{
+    position: absolute;
+    top:3955px;
+    font-size: 12px;
+    left: 730px;
+  }
+  
+  .pris1{
+    position: absolute;
+    top:3955px;
+    font-size: 12px;
+    left: 800px;
+  }
+  
+  
+  .googs1{
+    position: absolute;
+    top:3955px;
+    font-size: 12px;
+    left: 880px;
+  }
+  
+  
+  .sales1{
+    position: absolute;
+    top:3955px;
+    font-size: 12px;
+    left: 1110px;
+  }
+  
+  .terms1{
+    position: absolute;
+    top:3955px;
+    font-size: 12px;
+    left: 1200px;
+  }
+
+
+
+  .loading-animation {
+    /* Add your loading animation styles here */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 1.5rem;
+    animation: spin 1s linear infinite; /* Example rotation animation */
+  }
+  
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+
+  
+  

@@ -1,0 +1,25 @@
+.top-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+  }
+  
+  .loading-bar {
+    height: 5px;
+    background-color: #e74c3c;
+    border-radius: 3px;
+    animation: loadingAnimation 1s linear infinite;
+  }
+  
+  @keyframes loadingAnimation {
+    0% {
+      width: 10%;
+    }
+    100% {
+      width: 100%;
+    }
+  }
+  

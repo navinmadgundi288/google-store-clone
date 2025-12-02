@@ -1,0 +1,81 @@
+
+
+.bars{
+  display: none;
+}
+
+@media (max-width:768px) {
+    .glogo{
+        width: 150px;
+        position: absolute;
+        top:-30px;
+      }
+    
+      .menu-links{
+        display: none;
+        /* right: 0; */
+
+    padding-top: 20px;
+    padding-bottom: 10px;
+        
+      }
+      .bars{
+        display: flex;
+        position: absolute;
+        right: 10px;
+        font-size: 50px;
+        top: 20px;
+        height: 30px;
+        padding: 3px;
+      }
+      .menu-links, .Open{
+        width: 60vw;
+        display: none;
+        margin-top: 50px;
+        position: absolute;
+        right: 0px;
+        left: 39vw;
+        top: 3.8vh;
+        
+        background-color: rgb(182, 182, 216);
+        z-index: 1;
+      }
+
+      .Open, .produs, .ph, .ea, .ta, .sma, .hom, .subscr, .gsearch, .gfaq{
+       display: flex;
+       flex-direction: column;
+        margin-right: 0px;
+        justify-content: center;
+    align-items: center;
+ 
+      }
+      
+      .Open h1{
+        display: flex;
+        flex-direction: column;
+      }
+      .fretailersz1{
+        display: none;
+      }
+      .search-store{
+        right: 70px;
+        position: absolute;
+        top:25px;
+        display: flex;
+       
+      }
+      .gsearch{
+        width: 50px;
+        height: 50px;
+        padding: 5px;
+        margin-top: -1px;
+       
+      }
+      
+      .gfaq{
+        width: 45px;
+        height: 45px;
+        padding: 5px;
+      }
+}
+

@@ -1,0 +1,49 @@
+.header{
+    padding: 20px;
+    margin-top: 5vh;
+   
+   }
+   h1{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+  }
+  .up{
+    color:darkslategray;
+    margin-top: 5px;
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  .goo{
+    color: green;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 55px;
+    
+  }
+  @media (max-width:768px) {
+    .header{
+        padding: 20px;
+        margin-top: 5vh;
+       
+       }
+       h1{
+        font-family: Google Sans,Roboto, Arial, sans-serif;
+        font-weight: bold;
+        /* font-size: 45px; */
+        text-align: center;
+      }
+      .up{
+        color:darkslategray;
+        margin-top: 5px;
+        font-size: 40px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+      .goo{
+        color: green;
+        margin-top: 10px;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 38px;
+        
+      }
+  }

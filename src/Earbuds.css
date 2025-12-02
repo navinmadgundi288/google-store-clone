@@ -1,0 +1,769 @@
+.buds{
+    position: absolute;
+    font-size: 40px;
+    top:270px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    left: 450px;
+    color: darkslategrey;
+}
+
+.budspro{
+    position: absolute;
+    width: 120px;
+    top:370px;
+    left: 520px;
+    border-radius: 10px;
+}
+
+.budsa{
+    position: absolute;
+    width: 120px;
+    top:370px;
+    left: 700px;
+    border-radius: 10px;
+}
+
+.budscomp{
+    position: absolute;
+    width: 480px;
+    top:350px;
+    left: 650px;
+    border-radius: 10px;
+}
+
+.budsacc{
+    position: absolute;
+    width: 200px;
+    top:350px;
+    left: 850px;
+    border-radius: 10px;
+}
+
+.pixpro{
+    position: absolute;
+    top: 550px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    left: 525px;
+}
+
+
+.pixapro{
+    position: absolute;
+    top: 545px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    left: 695px;
+}
+
+
+
+.pixaccess{
+    position: absolute;
+    top: 545px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    left: 910px;
+}
+
+
+.budsproinfo{
+    width: 350px;
+    position: absolute;
+    top:650px;
+    left: 380px;
+    border-radius: 20px;
+}
+
+.onimg{
+    position: absolute;
+    top:910px;
+    left: 450px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+.onimg2{
+    position: absolute;
+    top:950px;
+    left: 470px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+}
+
+
+.lm1{
+    position: absolute;
+    top:670px;
+    left: 405px;
+    font-weight: bold;
+    background-color: #edecec;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.budsainfo{
+    width: 350px;
+    position: absolute;
+    top:650px;
+    left: 770px;
+    border-radius: 20px;
+}
+
+
+.onimg11{
+    position: absolute;
+    top:960px;
+    left: 840px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.onimg12{
+    position: absolute;
+    top:995px;
+    left: 880px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+}
+
+
+.lm2{
+    position: absolute;
+    top:680px;
+    left: 805px;
+    font-weight: bold;
+    background-color: #e1f0ff;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.budh{
+    position: absolute;
+    top:1200px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+    left: 400px;
+    text-align: center;
+}
+
+
+.voice{
+    position: absolute;
+    top:1330px;
+width: 25px;
+left: 300px;
+}
+
+.voice1{
+    position: absolute;
+    top:1370px;
+left: 220px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.voice2{
+    position: absolute;
+    top:1410px;
+left: 200px;
+font-size: 14px;
+text-align: center;
+color: gray;
+line-height: 20px;
+}
+
+
+
+.earbudz{
+    position: absolute;
+    top:1330px;
+width: 25px;
+left: 600px;
+}
+
+.earbudz1{
+    position: absolute;
+    top:1370px;
+left:500px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.earbudz2{
+    position: absolute;
+    top:1410px;
+left: 500px;
+font-size: 14px;
+text-align: center;
+color: gray;
+line-height: 20px;
+}
+
+
+.charging{
+    position: absolute;
+    top:1330px;
+width: 25px;
+left: 900px;
+}
+
+.charging1{
+    position: absolute;
+    top:1370px;
+left:840px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.charging2{
+    position: absolute;
+    top:1410px;
+left: 800px;
+font-size: 14px;
+text-align: center;
+color: gray;
+line-height: 20px;
+}
+
+
+.new{
+    position: absolute;
+    top:1330px;
+width: 25px;
+left: 1200px;
+}
+
+.newass1{
+    position: absolute;
+    top:1370px;
+left:1140px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.newass2{
+    position: absolute;
+    top:1410px;
+left: 1110px;
+font-size: 14px;
+text-align: center;
+color: gray;
+line-height: 20px;
+}
+
+.which{
+    position: absolute;
+    font-size: 40px;
+    top:1500px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    left: 440px;
+    color: darkslategrey;
+}
+
+.budsprodiff{
+    position: absolute;
+    top:1600px;
+    width: 250px;
+    border-radius: 10px;
+    left: 450px;
+}
+
+
+.budsadiff{
+    position: absolute;
+    top:1600px;
+    width: 250px;
+    border-radius: 10px;
+    left: 780px;
+}
+
+
+.pixprodiff{
+    position: absolute;
+    top:1960px;
+    width: 300px;
+    border-radius: 10px;
+    left: 450px;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+
+.pixaprodiff{
+    position: absolute;
+    top:1960px;
+    width: 300px;
+    border-radius: 10px;
+    left: 780px;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+
+.budsbuy1{
+    position: absolute;
+    top:2000px;
+    background-color: #0071dd;
+    width: 70px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    left: 450px;
+    border: 1px solid white;
+    transition: 0.6s;
+}
+
+.budsbuy1:hover{
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+
+.budsbuy2{
+    position: absolute;
+    top:2000px;
+    background-color: #0071dd;
+    width: 70px;
+    height: 35px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    left: 780px;
+    border: 1px solid white;
+    transition: 0.6s;
+}
+
+.budsbuy2:hover{
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+.actnoise{
+    position: absolute;
+    top:2100px;
+    font-weight: bold;
+    font-size: 18px;
+    left: 450px;
+}
+
+.horizon1{
+    position: absolute;
+    top:2120px;
+    left: 450px;
+    padding-bottom: 10px;
+    width: 580px;
+}
+
+.yes1{
+    position: absolute;
+    top:2155px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 450px;
+    opacity: 0.8;
+}
+
+.no1{
+    position: absolute;
+    top:2155px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 780px;
+    opacity: 0.8;
+}
+
+
+
+.listentime{
+    position: absolute;
+    top:2200px;
+    font-weight: bold;
+    font-size: 18px;
+    left: 450px;
+}
+
+.horizon2{
+    position: absolute;
+    top:2220px;
+    left: 450px;
+    padding-bottom: 10px;
+    width: 580px;
+}
+
+.yes2{
+    position: absolute;
+    top:2255px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 450px;
+    opacity: 0.8;
+}
+
+.no2{
+    position: absolute;
+    top:2255px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 780px;
+    opacity: 0.8;
+}
+
+
+
+
+.transper{
+    position: absolute;
+    top:2310px;
+    font-weight: bold;
+    font-size: 18px;
+    left: 450px;
+}
+
+.horizon3{
+    position: absolute;
+    top:2330px;
+    left: 450px;
+    padding-bottom: 10px;
+    width: 580px;
+}
+
+.yes3{
+    position: absolute;
+    top:2360px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 450px;
+    opacity: 0.8;
+}
+
+.no3{
+    position: absolute;
+    top:2360px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 780px;
+    opacity: 0.8;
+}
+
+
+
+
+.wirelessc{
+    position: absolute;
+    top:2410px;
+    font-weight: bold;
+    font-size: 18px;
+    left: 450px;
+}
+
+.horizon4{
+    position: absolute;
+    top:2430px;
+    left: 450px;
+    padding-bottom: 10px;
+    width: 580px;
+}
+
+.yes4{
+    position: absolute;
+    top:2460px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 450px;
+    opacity: 0.8;
+}
+
+.no4{
+    position: absolute;
+    top:2460px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 780px;
+    opacity: 0.8;
+}
+
+
+
+.gassistant{
+    position: absolute;
+    top:2510px;
+    font-weight: bold;
+    font-size: 18px;
+    left: 450px;
+}
+
+.horizon5{
+    position: absolute;
+    top:2530px;
+    left: 450px;
+    padding-bottom: 10px;
+    width: 580px;
+}
+
+.yes5{
+    position: absolute;
+    top:2560px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 450px;
+    opacity: 0.8;
+}
+
+.no5{
+    position: absolute;
+    top:2560px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 780px;
+    opacity: 0.8;
+}
+
+
+.allspecs{
+    position: absolute;
+    top:2620px;
+    background-color: white;
+    width: 130px;
+    height: 28px;
+    color: #0071dd;
+    font-weight: bold;
+    border-radius: 5px;
+    left: 690px;
+    padding-bottom: 20px;
+    border: 2px solid #0071dd;
+    transition: 0.6s;
+}
+
+.accessoriesk{
+    position: absolute;
+    top:2680px;
+    font-weight: bold;
+    font-size: 28px;
+    left: 540px;
+}
+
+.usbcable{
+    position: absolute;
+    top:2750px;
+    width: 350px;
+    left: 350px;
+    border-radius: 25px;
+}
+
+.poweradaptor{
+    position: absolute;
+    top:2750px;
+    width: 340px;
+    left: 750px;
+    border-radius: 25px;
+}
+
+
+.more1{
+    position: absolute;
+    top:3180px;
+    background-color: white;
+    width: 110px;
+    height: 28px;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    left: 350px;
+    padding-bottom: 20px;
+    border: 2px solid black;
+    transition: 0.6s;
+    font-size: 15px;
+}
+
+
+.more2{
+    position: absolute;
+    top:3180px;
+    background-color: white;
+    width: 110px;
+    height: 28px;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    left: 750px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    border: 2px solid black;
+    transition: 0.6s;
+}
+
+.usb1{
+    position: absolute;
+    top:3130px;
+    left: 360px;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.usb2{
+    position: absolute;
+    top:3130px;
+    left: 750px;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.dummy{
+    position: absolute;
+    top:3280px;
+    left: 120px;
+    border-radius: 25px;
+    height: 600px;
+    padding-bottom: 20px;
+    width: 1300px;
+}
+
+.ambition{
+    position: absolute;
+    top:3900px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    opacity: 0.8;
+    left: 680px;
+}
+
+.making{
+    position: absolute;
+    top:3930px;
+    padding-bottom: 20px;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    opacity: 0.8;
+    left: 450px;
+}
+
+
+.more3{
+    position: absolute;
+    top:4030px;
+    background-color: white;
+    width: 110px;
+    height: 28px;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    left: 680px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    border: 2px solid black;
+    transition: 0.6s;
+}
+
+
+.snoop1{
+    position: absolute;
+    top:4100px;
+    width: 250px;
+    left: 270px;
+    padding-bottom: 0px;
+    border-radius: 25px;
+}
+
+.snoop2{
+    position: absolute;
+    top:4100px;
+    width: 300px;
+    left: 550px;
+    padding-bottom: 0px;
+    border-radius: 25px;
+}
+
+.snoop3{
+    position: absolute;
+    top:4100px;
+    width: 300px;
+    left: 880px;
+    padding-bottom: 0px;
+    border-radius: 25px;
+}
+
+.snoop4{
+    position: absolute;
+    top:4350px;
+    width: 630px;
+    height: 200px;
+    left: 550px;
+    padding-bottom: 0px;
+    border-radius: 25px;
+}
+
+.budsin{
+    position: absolute;
+    top:4600px;
+    padding-bottom: 20px;
+    font-size: 10px;
+}
+
+.hns1{
+    position: absolute;
+    top:4720px;
+    width: 1400px;
+    left: 50px;
+    padding-bottom: 10px;
+}
+
+.indio1{
+    position: absolute;
+    top:4750px;
+    font-size: 13px;
+    left: 600px;
+    padding-bottom: 15px;
+}
+
+.indio2{
+    position: absolute;
+    top:4750px;
+    font-size: 12px;
+    left: 660px;
+    padding-bottom: 15px;
+}
+
+.indio3{
+    position: absolute;
+    top:4750px;
+    font-size: 12px;
+    left: 730px;
+    padding-bottom: 15px;
+}
+
+.indio4{
+    position: absolute;
+    top:4750px;
+    font-size: 12px;
+    left: 970px;
+    padding-bottom: 15px;
+}
+
+.indio5{
+    position: absolute;
+    top:4750px;
+    font-size: 12px;
+    left: 1080px;
+    padding-bottom: 15px;
+}
+
+
+.indio6{
+    position: absolute;
+    top:4750px;
+    font-size: 12px;
+    left: 1200px;
+    padding-bottom: 15px;
+}

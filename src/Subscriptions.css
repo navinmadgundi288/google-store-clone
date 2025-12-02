@@ -1,0 +1,448 @@
+.subscriptions{
+    position: absolute;
+    top:240px;
+    left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+
+.getto{
+    position: absolute;
+    top:300px;
+    left: 350px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: darkslategray;
+}
+
+.subhead{
+    position: absolute;
+    top:440px;
+    left: 530px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.Featured{
+    position: absolute;
+    top:520px;
+    left: 350px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.Featured1{
+    position: absolute;
+    top:800px;
+    left: 660px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.info1{
+    position: absolute;
+    top:1060px;
+    left: 640px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.storage{
+    position: absolute;
+    top:520px;
+    left: 520px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.phplan{
+    position: absolute;
+    top:520px;
+    left: 690px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.shows{
+    position: absolute;
+    top:520px;
+    left: 860px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.gaming{
+    position: absolute;
+    top:520px;
+    left: 1030px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.f1{
+    position: absolute;
+    top:690px;
+    font-size: 14px;
+    left: 390px;
+}
+
+.f2{
+    position: absolute;
+    top:1010px;
+    font-weight: bold;
+    font-size: 20px;
+    left:720px;
+}
+
+.s1{
+    position: absolute;
+    top:690px;
+    font-size: 14px;
+    left: 540px;
+}
+
+.p1{
+    position: absolute;
+    top:690px;
+    font-size: 14px;
+    left: 730px;
+}
+
+.sh1{
+    position: absolute;
+    top:690px;
+    font-size: 14px;
+    left: 885px;
+}
+
+.g1{
+    position: absolute;
+    top:690px;
+    font-size: 14px;
+    left: 1075px;
+}
+
+.renew{
+    position: absolute;
+    top:1330px;
+    left: 710px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.descrin{
+    position: absolute;
+    top:1380px;
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    left: 630px;
+    line-height:20px;
+}
+
+.lnmore{
+    position: absolute;
+    top:1500px;
+    left: 725px;
+}
+
+.sec1{
+    position: absolute;
+    top:1650px;
+    width: 35px;
+    left: 750px;
+}
+
+
+.vid1{
+    position: absolute;
+    top:2450px;
+    width: 35px;
+    left: 750px;
+}
+
+
+.str1{
+    position: absolute;
+    top:1700px;
+    left: 640px;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.str2{
+    position: absolute;
+    top:2500px;
+    left: 650px;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.one1{
+    position: absolute;
+    top:1770px;
+    left: 400px;
+    width: 300px;
+    border:2px solid white;
+    border-radius: 10px;
+}
+
+.aware1{
+    position: absolute;
+    top:1770px;
+    left: 800px;
+    width: 300px;
+    border:2px solid white;
+    border-radius: 10px;
+}
+
+.gone{
+    position: absolute;
+    top:2100px;
+    left: 490px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.gaware{
+    position: absolute;
+    top:2100px;
+    left: 900px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.para1g{
+    position: absolute;
+    top:2150px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 15px;
+    left: 400px;
+}
+
+.para1g{
+    position: absolute;
+    top:2150px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 15px;
+    left: 400px;
+}
+
+.para2g{
+    position: absolute;
+    top:2150px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 15px;
+    left: 820px;
+}
+
+.lnmo1{
+    position: absolute;
+    top:2260px;
+    left: 510px;
+}
+
+.lnmo2{
+    position: absolute;
+    top:2260px;
+    left: 915px;
+}
+
+.ytv1{
+    position: absolute;
+    top:2570px;
+    width: 250px;
+    left: 300px;
+    border-radius: 10px;
+}
+
+.yprem1{
+    position: absolute;
+    top:2570px;
+    width: 250px;
+    left: 650px;
+    border-radius: 10px;
+}
+
+.ymusic1{
+    position: absolute;
+    top:2570px;
+    width: 250px;
+    left: 1000px;
+    border-radius: 10px;
+}
+
+.ytvt{
+    position: absolute;
+    top:2840px;
+    left: 370px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ypremt{
+    position: absolute;
+    top:2840px;
+    left: 690px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ymusict{
+    position: absolute;
+    top:2840px;
+    left: 1010px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.ytvcap{
+    position: absolute;
+    top:2890px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 14px;
+    left: 280px;
+}
+
+.ypremcap{
+    position: absolute;
+    top:2890px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 14px;
+    left: 660px;
+}
+
+
+.ymusiccap{
+    position: absolute;
+    top:2890px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 14px;
+    left: 1000px;
+}
+
+.lmytv{
+    position: absolute;
+    top:3000px;
+    left: 370px;
+}
+
+.lmyprem{
+    position: absolute;
+    top:3000px;
+    left: 730px;
+}
+
+.lmymusic{
+    position: absolute;
+    top:3000px;
+    left: 1100px;
+}
+
+.console1{
+    position: absolute;
+    top:3150px;
+    width: 40px;
+    left: 750px;
+}
+
+.game1{
+    position: absolute;
+    top:3230px;
+    width: 250px;
+    left: 650px;
+    border-radius: 10px;
+}
+
+.gplay{
+    position: absolute;
+    top:3500px;
+    left: 690px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.gplaycap{
+    position: absolute;
+    top:3550px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 14px;
+    left: 670px;
+}
+
+
+
+
+
+.lmygplay{
+    position: absolute;
+    top:3670px;
+    left: 740px;
+}
+
+.kimmy{
+    position: absolute;
+    top:3750px;
+    left: 10px;
+    font-size: 11px;
+    text-align: left;
+}
+
+.horil2{
+    position: absolute;
+    top:3840px;
+    width: 1500px;
+    left: 10px;
+   
+  
+}
+
+
+.india2{
+    position: absolute;
+    top:3870px;
+    font-size: 12px;
+    left: 800px;
+    padding-bottom: 15px ;
+}
+
+.pri2{
+    position: absolute;
+    top:3870px;
+    font-size: 12px;
+    left: 880px;
+}
+
+.gnest2{
+    position: absolute;
+    top:3870px;
+    font-size: 12px;
+    left: 960px;
+}
+
+.sales2{
+    position: absolute;
+    top:3870px;
+    font-size: 12px;
+    left: 1190px; 
+}
+
+.terms2{
+    position: absolute;
+    top:3870px;
+    font-size: 12px;
+    left: 1280px; 
+}

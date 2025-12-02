@@ -1,0 +1,917 @@
+.pic1{
+    width: 1400px;
+    height: 530px;
+    position: absolute;
+    top:510px;
+    left: 50px;
+    border-radius: 15px;
+    border: 2px solid white;
+}
+
+/* .pic2{
+    width: 510px;
+    height: 320px;
+    position: absolute;
+    top:320px;
+    left: 490px;
+} */
+.pic3{
+    width: 700px;
+    height: 350px;
+    position: absolute;
+    top:330px;
+    left: 780px;
+    border-radius: 15px;
+}
+
+.t1{
+    position: absolute;
+    left: 360px;
+    font-size: 24px;
+    top:690px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+}
+
+/* .t2{
+    position: absolute;
+    left: 720px;
+    font-size: 24px;
+    top:660px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+} */
+
+.t3{
+    position: absolute;
+    left: 1100px;
+    font-size: 24px;
+    top:690px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.user{
+    width: 460px;
+    height: 600px;
+    position: absolute;
+    top:750px;
+    right: 200px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+.head{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:900px;
+    left: 200px;
+}
+
+.para1{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:940px;
+    left: 200px;
+    text-align: left;
+}
+.pix7{
+  font-size: 25px;
+}
+.para2{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:965px;
+    left: 200px;
+    text-align: left;
+}
+
+.para3{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:988px;
+    left: 200px;
+    text-align: left;
+}
+
+
+
+
+.head2{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:1050px;
+    left: 200px;
+}
+
+.para4{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1090px;
+    left: 200px;
+    text-align: left;
+}
+
+.para5{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1115px;
+    left: 200px;
+    text-align: left;
+}
+
+.para6{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1140px;
+    left: 200px;
+    text-align: left;
+}
+
+
+
+.head3{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:1200px;
+    left: 100px;
+}
+
+.para7{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1235px;
+    left: 100px;
+    text-align: left;
+}
+
+.para8{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1260px;
+    left: 100px;
+    text-align: left;
+}
+
+.para9{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1285px;
+    left: 100px;
+    text-align: left;
+}
+
+
+
+.head4{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:1340px;
+    left: 100px;
+}
+
+.para10{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1375px;
+    left: 100px;
+    text-align: left;
+}
+
+.para11{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1400px;
+    left: 100px;
+    text-align: left;
+}
+
+.para12{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1425px;
+    left: 100px;
+    text-align: left;
+}
+
+.para13{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1450px;
+    left: 100px;
+    text-align: left;
+}
+
+
+.nav{
+    position: absolute;
+    top:1510px;
+    left: 140px;
+    height: 150px;
+    width: 1300px;
+    border: 2px solid white;
+    border-radius: 15px;
+
+}
+
+
+.auth{  
+    position: absolute;
+    top:1350px;
+    right: 480px;
+    font-size: 40px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    color: dark;
+    letter-spacing: 1px;
+  }
+
+  .flipv{
+    border: 1px solid grey;
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    top:2160px;
+    left: 660px;
+  }
+
+
+  .buyv{
+    width: 200px;
+    height: 50px;
+    background-color:#0071dd;
+    color: white;
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    border: 2px solid white;
+    right: 610px;
+    top:2340px;
+    border: 2px solid white;
+  }
+
+
+  .specs{
+    position: absolute;
+    top:20px;
+    right: 1150px;
+    font-size: 35px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    color: darkslategray;
+  }
+
+  .para14{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:200px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:15px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para15{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2250px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list2{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2300px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit2{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para16{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2470px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list3{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2500px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit3{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+
+.para17{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2590px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list4{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2620px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit4{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para18{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2700px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list5{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2730px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit5{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+.para19{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2850px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list6{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2880px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit6{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para20{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3000px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list7{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3030px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit7{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+.para21{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3070px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list8{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3100px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit8{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+.specs2{
+    position: absolute;
+    top:3150px;
+    right: 1050px;
+    font-size: 33px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    color: darkslategray;
+  }
+
+
+  .list9{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3150px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit9{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+.list10v{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: darkslategray;
+    position: absolute;
+    top:2440px;
+    left: 20px;
+    text-align: center;
+}
+
+.lit10, .lit11, .lit12, .lit13, .lit14, .lit15, .lit16, .lit17, .lit18, .lit19, .lit20, .lit21, .lit22, .lit23{
+    font-size: 13px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    text-align: justify;
+}
+
+
+
+.coun1v {
+    position: absolute;
+    bottom: -1050px;
+    right: 350px;
+  }
+  
+  .help1v{
+    position: absolute;
+    bottom: -1050px;
+    right: 200px;
+  }
+  
+  .walk1v{
+    position: absolute;
+    bottom: -1100px;
+    right: 335px;
+  }
+  
+  .cont1v{
+    position: absolute;
+    bottom: -1100px;
+    right: 205px;
+  }
+  
+  
+  .disa1v{
+    position: absolute;
+    bottom: -1150px;
+    right: 360px;
+  }
+  
+  .devi1v{
+    position: absolute;
+    bottom: -1150px;
+    right: 165px;
+  }
+  
+  
+  .twitter1v{
+    width: 18px;
+    position: absolute;
+    right: 1390px;
+    top:2500px;
+  }
+  
+  .instagram1v{
+    width: 18px;
+    position: absolute;
+    right: 1365px;
+    top:2500px;
+  }
+  
+  .facebook1v{
+    width: 18px;
+    position: absolute;
+    right: 1340px;
+    top:2500px;
+  }
+  
+  .youtube1v{
+    width: 20px;
+    position: absolute;
+    right: 1312px;
+    top:2500px;
+  }
+  
+  .tiktok1v{
+    width: 18px;
+    position: absolute;
+    right: 1288px;
+    top:2500px;
+  }
+  
+  .india1v{
+    width: 25px;
+    position: absolute;
+    right: 800px;
+    top:2500px;
+  }
+  
+  .prod1{
+  position: absolute;
+  top:300px;
+  left: 50px;
+  }
+  
+  .conhome1{
+    position: absolute;
+    top:330px;
+    left: 50px;
+  }
+  
+  .phones1{
+    position: absolute;
+    top:360px;
+    left: 50px;
+  }
+  
+  .access1{
+    position: absolute;
+    top:390px;
+    left: 50px;
+  }
+  
+  label1{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+  }
+  
+  .pix71{
+  position: absolute;
+  bottom: 480px;
+  left:30px;
+  font-family: Google Sans,Roboto, Arial, sans-serif;
+  font-weight: bold;
+  }
+  
+  .fretailers1{
+    width: 220px;
+    height: 50px;
+    background-color:#0071dd;
+    color: white;
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    border: 2px solid white;
+    right: 20px;
+    top:250px;
+  }
+  
+  
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .dev1v{
+    position: absolute;
+    top:2540px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    left: 110px;
+  }
+  
+  .ind1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 730px;
+  }
+  
+  .pri1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 800px;
+  }
+  
+  
+  .goog1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 880px;
+  }
+  
+  
+  .sale1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 1110px;
+  }
+  
+  .term1v{
+    position: absolute;
+    top:2505px;
+    font-size: 12px;
+    left: 1200px;
+  }
+
+
+  .know{
+    font-size: 60px;
+    position: absolute;
+    top:300px;
+    left: 595px;
+  }
+
+  .out{
+    font-size: 60px;
+    position: absolute;
+    top:360px;
+    left: 580px;
+  }
+
+  .see{
+    font-size: 20px;
+    position: absolute;
+    top:440px;
+    left: 680px;
+  }
+
+
+.ta1{
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    position: absolute;
+    top:1050px;
+    left: 200px;
+    font-weight: bold;
+    color:darkslategray;
+}
+
+.ta2{
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    position: absolute;
+    top:1050px;
+    left: 700px;
+    font-weight: bold;
+    color:darkslategray;
+}
+
+
+.ta3{
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    position: absolute;
+    top:1050px;
+    left: 1100px;
+    font-weight: bold;
+    color:darkslategray;
+}
+
+.ti1{
+    width: 450px;
+    height: 150px;
+    position: absolute;
+    top:1080px;
+    left: 100px;
+}
+
+.ti2{
+    width: 450px;
+    height: 150px;
+    position: absolute;
+    top:1080px;
+    left: 550px;
+}
+
+.ti3{
+    width: 450px;
+    height: 150px;
+    position: absolute;
+    top:1080px;
+    left: 1000px;
+}
+
+
+.i1{
+    font-size: 32px;
+    position: absolute;
+    top:1250px;
+    left: 580px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    color: grey;
+}
+
+.i2{
+    font-size: 32px;
+    position: absolute;
+    top:1290px;
+    left: 620px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    color: grey;
+}
+
+
+.lg1{
+    position: absolute;
+    top:1340px;
+    height: 150px;
+    left: 530px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+
+.su{
+    position: absolute;
+    top:1490px;
+    height: 70px;
+    left: 610px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+
+video{
+  width: 1400px;
+  position: absolute;
+  top:1620px;
+  left: 70px;
+  height: 500px;
+  border-radius: 55px;
+}
+
+.ts{
+  border: 1px solid blue;
+  position: absolute;
+  top:240px;
+  left: 500px;
+  background-color: aliceblue;
+  border-radius: 25px;
+  width: 110px;
+  font-weight: bold;
+  font-size: 16px;
+}
+

@@ -1,0 +1,495 @@
+.goo1{
+    position: absolute;
+    width: 1000px;
+    top:250px;
+    left: 20px;
+    border-radius: 25px;
+}
+.gooz{
+    position: absolute;
+    width: 400px;
+    top:300px;
+    left: 1050px;
+    border-radius: 25px;
+}
+.goo2{
+    position: absolute;
+    top:1000px;
+    width: 340px;
+    height: 400px;
+    left: 200px;
+    border-radius: 20px;
+}
+
+.goo3{
+    position: absolute;
+    top:1000px;
+    width: 340px;
+    height: 400px;
+    left: 600px;
+    border-radius: 20px;
+}
+
+.goo4{
+    position: absolute;
+    top:1000px;
+    width: 340px;
+    height: 400px;
+    left: 1000px;
+    border-radius: 20px;
+}
+
+.pixfold{
+    position: absolute;
+    top:780px;
+    font-size: 14px;
+    left: 330px;
+    font-weight: bold;
+}
+
+.foldinfo{
+    text-align: center;
+    position: absolute;
+    top:800px;
+    font-weight: bold;
+    color: darkslategray;
+    left: 210px;
+    font-size: 35px;
+}
+
+.lfold{
+    position: absolute;
+    top:940px;
+    left: 305px;
+    background-color: white;
+    border-radius: 5px;
+    width: 110px;
+    height: 28px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+.pixtab{
+    position: absolute;
+    top:780px;
+    font-size: 14px;
+    left: 720px;
+}
+
+.tabinfo{
+    text-align: center;
+    position: absolute;
+    top:800px;
+    font-weight: bold;
+    color: darkslategray;
+    left: 610px;
+    font-size: 35px;
+}
+
+.lfold2{
+    position: absolute;
+    top:900px;
+    left: 705px;
+    background-color: white;
+    border-radius: 5px;
+    width: 110px;
+    height: 28px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+.pix7a{
+    position: absolute;
+    top:780px;
+    font-size: 14px;
+    left: 1120px;
+    font-weight: bold;
+}
+
+.p7ainfo{
+    text-align: center;
+    position: absolute;
+    top:800px;
+    font-weight: bold;
+    color: darkslategray;
+    left: 1010px;
+    font-size: 35px;
+}
+
+.lfold3{
+    position: absolute;
+    top:940px;
+    left: 1105px;
+    background-color: white;
+    border-radius: 5px;
+    width: 110px;
+    height: 28px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.goo5{
+    position: absolute;
+    top:1700px;
+    width: 450px;
+    left: 300px;
+    height: 350px;
+    border-radius: 20px;
+}
+
+.goo6{
+    position: absolute;
+    top:1700px;
+    width: 450px;
+    left: 800px;
+    height: 350px;
+    border-radius: 20px;
+}
+
+
+.pixport{
+    position: absolute;
+    top:1470px;
+    font-size: 14px;
+    left: 480px;
+}
+
+.pixportinfo{
+    text-align: center;
+    position: absolute;
+    top:1500px;
+    font-weight: bold;
+    color: darkslategray;
+    left: 380px;
+    font-size: 35px;
+}
+
+.lfold4{
+    position: absolute;
+    top:1640px;
+    left: 415px;
+    background-color: white;
+    border-radius: 5px;
+    width: 230px;
+    height: 28px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+.pixswitch{
+    position: absolute;
+    top:1470px;
+    font-size: 14px;
+    left: 980px;
+}
+
+.pixswitchinfo{
+    text-align: center;
+    position: absolute;
+    top:1500px;
+    font-weight: bold;
+    color: darkslategray;
+    left: 880px;
+    font-size: 35px;
+}
+
+.lfold5{
+    position: absolute;
+    top:1640px;
+    left: 985px;
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 28px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.shpop{
+    position: absolute;
+    top:2100px;
+    left: 570px;
+    font-size: 35px;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+.goo7{
+    position: absolute;
+    top:2170px;
+    left: 200px;
+    width: 250px;
+    border-radius: 15px;
+}
+
+.goo8{
+    position: absolute;
+    top:2170px;
+    left: 500px;
+    width: 250px;
+    border-radius: 15px;
+}
+
+.goo9{
+    position: absolute;
+    top:2170px;
+    left: 800px;
+    width: 250px;
+    border-radius: 15px;
+}
+
+.goo10{
+    position: absolute;
+    top:2170px;
+    left: 1100px;
+    width: 250px;
+    border-radius: 15px;
+}
+
+.wat1{
+    position: absolute;
+    top:2330px;
+    left: 290px;
+    font-size: 15px;
+    font-weight: bold;
+    color: blue;
+}
+
+.wat2{
+    position: absolute;
+    top:2330px;
+    left: 590px;
+    font-size: 15px;
+    font-weight: bold;
+    color: blue;
+}
+
+.wat3{
+    position: absolute;
+    top:2330px;
+    left: 890px;
+    font-size: 15px;
+    font-weight: bold;
+    color: blue;
+}
+
+.wat4{
+    position: absolute;
+    top:2330px;
+    left: 1190px;
+    font-size: 15px;
+    font-weight: bold;
+    color: blue;
+}
+
+.goo11{
+    position: absolute;
+    top:2400px;
+    width: 950px;
+    border-radius: 30px;
+    left: 300px;
+    height: 200px;
+}
+
+.disco{
+    position: absolute;
+    top:2650px;
+    left: 570px;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+.pij1{
+    position: absolute;
+    top:2750px;
+    left: 200px;
+    border-radius: 30px;
+    width: 310px;
+    height: 320px;
+}
+
+.pij2{
+    position: absolute;
+    top:2750px;
+    left: 600px;
+    border-radius: 30px;
+    width: 310px;
+    height: 320px;
+}
+.pij3{
+    position: absolute;
+    top:2750px;
+    left: 1000px;
+    border-radius: 30px;
+    width: 310px;
+    height: 320px;
+}
+
+.pik10{
+    position: absolute;
+    top:3100px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    left: 210px;
+    color: darkslategray;
+}
+
+.pik20{
+    position: absolute;
+    top:3100px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    left: 610px;
+    color: darkslategray;
+}
+
+.pik30{
+    position: absolute;
+    top:3100px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    left: 1010px;
+    color: darkslategray;
+}
+
+.re1{
+    position: absolute;
+    top:3150px;
+    font-size: 15px;
+    color: blue;
+    font-weight: bold;
+    left: 300px;
+}
+
+.re2{
+    position: absolute;
+    top:3140px;
+    font-size: 15px;
+    color: blue;
+    font-weight: bold;
+    left: 710px;
+}
+
+.re3{
+    position: absolute;
+    top:3140px;
+    font-size: 15px;
+    color: blue;
+    font-weight: bold;
+    left: 1110px;
+}
+
+.impo{
+    position: absolute;
+    top:3280px;
+    width: 450px;
+    left: 200px;
+    border-radius: 30px;
+    transition: 0.8s;
+}
+
+.impo:hover{
+    opacity: 0.9;
+}
+
+.goofi{
+    position: absolute;
+    top: 3370px;
+    left: 900px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.flexi{
+    position: absolute;
+    top:3400px;
+    left: 740px;
+    font-size: 40px;
+    font-weight: bold;
+    color: darkslategray;
+    text-align: center;
+}
+
+.ginfo{
+    position: absolute;
+    top:3520px;
+    text-align: center;
+    font-size: 15px;
+    left: 780px;
+}
+
+.lmore{
+    position: absolute;
+    top:3600px;
+    left: 970px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.uplist{
+    position: absolute;
+    top:3800px;
+    left: 20px;
+    font-size: 10px;
+}
+
+.horij{
+    position: absolute;
+    top:3940px;
+    left: 50px;
+    width: 1400px;
+}
+
+.indi{
+    position: absolute;
+    top:3970px;
+    left: 700px;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+
+.priv{
+    position: absolute;
+    top:3970px;
+    left: 770px;
+    padding-bottom: 10px;
+    font-size: 13px;
+}
+
+.gnest{
+    position: absolute;
+    top:3970px;
+    left: 860px;
+    padding-bottom: 10px;
+    font-size: 13px;
+}
+
+.salter{
+    position: absolute;
+    top:3970px;
+    left: 1110px;
+    padding-bottom: 10px;
+    font-size: 13px;
+}
+
+.termserv{
+    position: absolute;
+    top:3970px;
+    left: 1220px;
+    padding-bottom: 10px;
+    font-size: 13px;
+}
+
+.care{
+    position: absolute;
+    top:3970px;
+    left: 1340px;
+    padding-bottom: 10px;
+    font-size: 13px;
+}

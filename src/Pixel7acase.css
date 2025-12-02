@@ -1,0 +1,788 @@
+.pick1{
+    width: 270px;
+    height: 400px;
+    position: absolute;
+    top:320px;
+    left: 80px;
+    border-radius: 15px;
+    border: 2px solid white;
+}
+
+.pick2{
+    width: 260px;
+    height: 400px;
+    position: absolute;
+    top:320px;
+    left: 390px;
+    border-radius: 15px;
+    border: 2px solid white;
+}
+.pick3{
+    width: 260px;
+    height: 400px;
+    position: absolute;
+    top:320px;
+    left: 700px;
+    border-radius: 15px;
+    border: 2px solid white;
+}
+
+.pick4{
+    width: 400px;
+    height: 240px;
+    position: absolute;
+    top:390px;
+    left: 1030px;
+    border-radius: 15px;
+    border: 2px solid white;
+}
+
+.t1{
+    position: absolute;
+    left: 250px;
+    font-size: 24px;
+    top:700px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.t2{
+    position: absolute;
+    left: 720px;
+    font-size: 24px;
+    top:700px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.t3{
+    position: absolute;
+    left: 1200px;
+    font-size: 24px;
+    top:700px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.userk{
+    width: 550px;
+    height: 550px;
+    position: absolute;
+    top:800px;
+    right: 100px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+.headk{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:900px;
+    left: 200px;
+}
+
+.parak1{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:940px;
+    left: 200px;
+    text-align: left;
+}
+
+.parak2{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:965px;
+    left: 200px;
+    text-align: left;
+}
+
+.parak3{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:988px;
+    left: 200px;
+    text-align: left;
+}
+
+
+
+
+.headk2{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:1050px;
+    left: 200px;
+}
+
+.parak4{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1090px;
+    left: 200px;
+    text-align: left;
+}
+
+.parak5{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1115px;
+    left: 200px;
+    text-align: left;
+}
+
+.param6{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1140px;
+    left: 100px;
+    text-align: left;
+}
+
+
+
+.headm3{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:1200px;
+    left: 100px;
+}
+
+.param7{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1235px;
+    left: 100px;
+    text-align: left;
+}
+
+.param8{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1260px;
+    left: 100px;
+    text-align: left;
+}
+
+.param9{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1285px;
+    left: 100px;
+    text-align: left;
+}
+
+
+
+.headm4{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: darkslategray;
+    position: absolute;
+    top:1340px;
+    left: 100px;
+}
+
+.param10{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1375px;
+    left: 100px;
+    text-align: left;
+}
+
+.param11{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1400px;
+    left: 100px;
+    text-align: left;
+}
+
+.param12{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1425px;
+    left: 100px;
+    text-align: left;
+}
+
+.param13{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: absolute;
+    top:1450px;
+    left: 100px;
+    text-align: left;
+}
+
+
+.navm{
+    position: absolute;
+    top:1410px;
+    left: 140px;
+    height: 150px;
+    width: 1300px;
+    border: 2px solid white;
+    border-radius: 15px;
+
+}
+
+
+.authk{
+    position: absolute;
+    top:1400px;
+    right: 480px;
+    font-size: 40px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    color: dark;
+    letter-spacing: 1px;
+
+  }
+
+  .flipk{
+    border: 1px solid grey;
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    top:1470px;
+    left: 660px;
+  }
+
+
+  .buyk{
+    width: 200px;
+    height: 50px;
+    background-color:#0071dd;
+    color: white;
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    border: 2px solid white;
+    right: 610px;
+    top:1650px;
+    border: 2px solid white;
+  }
+
+
+  .specsk{
+    position: absolute;
+    top:1750px;
+    right: 1150px;
+    font-size: 35px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    color: darkslategray;
+  }
+
+  .para14k{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:1760px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.listk{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:1800px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para15m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2210px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list2m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2250px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit2{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para16m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2420px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list3m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2460px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit3{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+
+.para17m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2550px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list4m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2590px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit4{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para18m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2680px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list5m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2720px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit5{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+.para19m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2840px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list6m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:2880px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit6{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+.para20m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3000px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list7m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3030px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit7{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+.para21m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3080px;
+    left: 780px;
+    text-align: left;
+}
+
+
+.list8m{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:3110px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit8{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+
+
+.specs2k{
+    position: absolute;
+    top:1950px;
+    right: 1070px;
+    font-size: 33px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    color: darkslategray;
+  }
+
+
+  .list9k{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    color: darkslategray;
+    position: absolute;
+    top:1950px;
+    left: 760px;
+    text-align: left;
+}
+
+.lit9{
+    font-size: 17px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+}
+
+.list10k{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: darkslategray;
+    position: absolute;
+    top:2050px;
+    left: 150px;
+    text-align: center;
+}
+
+.lit10, .lit11, .lit12, .lit13, .lit14, .lit15, .lit16, .lit17, .lit18, .lit19, .lit20, .lit21, .lit22, .lit23{
+    font-size: 13px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    text-align: justify;
+}
+
+
+
+.counk1{
+    position: absolute;
+    bottom: -1300px;
+    right: 350px;
+  }
+  
+  .helpk1{
+    position: absolute;
+    bottom: -1300px;
+    right: 200px;
+  }
+  
+  .walkk1{
+    position: absolute;
+    bottom: -1350px;
+    right: 335px;
+  }
+  
+  .contk1{
+    position: absolute;
+    bottom: -1350px;
+    right: 205px;
+  }
+  
+  
+  .disak1{
+    position: absolute;
+    bottom: -1400px;
+    right: 360px;
+  }
+  
+  .devik1{
+    position: absolute;
+    bottom: -1400px;
+    right: 165px;
+  }
+  
+  
+  .twitterk1{
+    width: 18px;
+    position: absolute;
+    right: 1390px;
+    top:2140px;
+  }
+  
+  .instagramk1{
+    width: 18px;
+    position: absolute;
+    right: 1365px;
+    top:2140px;
+  }
+  
+  .facebookk1{
+    width: 18px;
+    position: absolute;
+    right: 1340px;
+    top:2140px;
+  }
+  
+  .youtubek1{
+    width: 20px;
+    position: absolute;
+    right: 1312px;
+    top:2140px;
+  }
+  
+  .tiktokk1{
+    width: 18px;
+    position: absolute;
+    right: 1288px;
+    top:2140px;
+  }
+  
+  .indiak1{
+    width: 25px;
+    position: absolute;
+    right: 800px;
+    top:2160px;
+  }
+  
+  .prod1{
+  position: absolute;
+  top:300px;
+  left: 50px;
+  }
+  
+  .conhome1{
+    position: absolute;
+    top:330px;
+    left: 50px;
+  }
+  
+  .phones1{
+    position: absolute;
+    top:360px;
+    left: 50px;
+  }
+  
+  .access1{
+    position: absolute;
+    top:390px;
+    left: 50px;
+  }
+  
+  label1{
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+  }
+  
+  .pix71{
+  position: absolute;
+  bottom: 480px;
+  left:30px;
+  font-family: Google Sans,Roboto, Arial, sans-serif;
+  font-weight: bold;
+  }
+  
+  .fretailers1{
+    width: 220px;
+    height: 50px;
+    background-color:#0071dd;
+    color: white;
+    font-size: 24px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    border: 2px solid white;
+    right: 20px;
+    top:250px;
+  }
+  
+  
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .devk1{
+    position: absolute;
+    top:2170px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    left: 110px;
+  }
+  
+  .indk1{
+    position: absolute;
+    top:2165px;
+    font-size: 12px;
+    left: 730px;
+  }
+  
+  .prik1{
+    position: absolute;
+    top:2165px;
+    font-size: 12px;
+    left: 800px;
+  }
+  
+  
+  .googk1{
+    position: absolute;
+    top:2165px;
+    font-size: 12px;
+    left: 880px;
+  }
+  
+  
+  .salek1{
+    position: absolute;
+    top:2165px;
+    font-size: 12px;
+    left: 1110px;
+  }
+  
+  .termk1{
+    position: absolute;
+    top:2165px;
+    font-size: 12px;
+    left: 1200px;
+  }
+

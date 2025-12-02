@@ -1,0 +1,1314 @@
+
+.pix710{
+    font-size: 25px;
+  }
+  
+    
+    .pix710{
+    position: absolute;
+    bottom: 465px;
+    left:30px;
+    font-family: Google Sans,Roboto, Arial, sans-serif;
+    font-weight: bold;
+    }
+
+    .ordlist{
+      position: absolute;
+      top:4750px;
+    }
+    
+    .fretailers1000{
+      width: 180px;
+      height: 36px;
+      background-color:#0071dd;
+      color: white;
+      font-size: 18px;
+      font-family: Google Sans,Roboto, Arial, sans-serif;
+      border-radius: 5px;
+      position: absolute;
+      border: 2px solid white;
+      right: 20px;
+      top:235px;
+      font-weight: bold;
+    }
+    
+    .fretailers1100{
+      width: 180px;
+      height: 36px;
+      background-color:green;
+      color: white;
+      font-size: 18px;
+      font-family: Google Sans,Roboto, Arial, sans-serif;
+      border-radius: 5px;
+      position: absolute;
+      border: 2px solid white;
+      right: 210px;
+      top:235px;
+      font-weight: bold;
+    }
+    
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .dev1v{
+      position: absolute;
+      top:2540px;
+      padding-bottom: 10px;
+      font-size: 10px;
+      left: 110px;
+    }
+    
+    .ind1v{
+      position: absolute;
+      top:2505px;
+      font-size: 12px;
+      left: 730px;
+    }
+    
+    .pri1v{
+      position: absolute;
+      top:2505px;
+      font-size: 12px;
+      left: 800px;
+    }
+    
+    
+    .goog1v{
+      position: absolute;
+      top:2505px;
+      font-size: 12px;
+      left: 880px;
+    }
+    
+    
+    .sale1v{
+      position: absolute;
+      top:2505px;
+      font-size: 12px;
+      left: 1110px;
+    }
+    
+    .term1v{
+      position: absolute;
+      top:2505px;
+      font-size: 12px;
+      left: 1200px;
+    }
+  
+  
+    .know1000{
+      font-size: 40px;
+      position: absolute;
+      top:290px;
+      left: 615px;
+      color: darkslategray;
+    }
+  
+    .out1000{
+      font-size: 40px;
+      position: absolute;
+      top:340px;
+      color: darkslategray;
+      left: 520px;
+    }
+  
+    .see1000{
+      font-size: 20px;
+      position: absolute;
+      top:400px;
+      left: 680px;
+      font-family: sans-serif;
+      font-weight: bold;
+      color: #0071dd;
+    }
+  
+  
+  .ta1{
+      font-size: 24px;
+      font-family: Google Sans,Roboto, Arial, sans-serif;
+      position: absolute;
+      top:1050px;
+      left: 200px;
+      font-weight: bold;
+      color:darkslategray;
+  }
+  
+  .ta2{
+      font-size: 24px;
+      font-family: Google Sans,Roboto, Arial, sans-serif;
+      position: absolute;
+      top:1050px;
+      left: 700px;
+      font-weight: bold;
+      color:darkslategray;
+  }
+  
+  
+  .ta3{
+      font-size: 24px;
+      font-family: Google Sans,Roboto, Arial, sans-serif;
+      position: absolute;
+      top:1050px;
+      left: 1100px;
+      font-weight: bold;
+      color:darkslategray;
+  }
+  
+  .ti1{
+      width: 450px;
+      height: 150px;
+      position: absolute;
+      top:1080px;
+      left: 100px;
+  }
+  
+  .ti2{
+      width: 450px;
+      height: 150px;
+      position: absolute;
+      top:1080px;
+      left: 550px;
+  }
+  
+  .ti3{
+      width: 450px;
+      height: 150px;
+      position: absolute;
+      top:1080px;
+      left: 1000px;
+  }
+  
+  
+  .i1{
+      font-size: 32px;
+      position: absolute;
+      top:1250px;
+      left: 580px;
+      font-family: Google Sans,Roboto, Arial, sans-serif;
+      font-weight: bold;
+      color: grey;
+  }
+  
+  .i2{
+      font-size: 32px;
+      position: absolute;
+      top:1290px;
+      left: 620px;
+      font-family: Google Sans,Roboto, Arial, sans-serif;
+      font-weight: bold;
+      color: grey;
+  }
+  
+  
+  .lg1{
+      position: absolute;
+      top:1340px;
+      height: 150px;
+      left: 530px;
+      border: 2px solid white;
+      border-radius: 15px;
+  }
+  
+  
+  .su{
+      position: absolute;
+      top:1490px;
+      height: 70px;
+      left: 610px;
+      border: 2px solid white;
+      border-radius: 15px;
+  }
+  
+  
+  video{
+    width: 1400px;
+    position: absolute;
+    top:1620px;
+    left: 70px;
+    height: 500px;
+    border-radius: 55px;
+  }
+  
+  .ts1{
+    border: 2px solid green;
+    position: absolute;
+    top:240px;
+    left: 200px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    width: 110px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  .ts2{
+      border: 2px solid green;
+      position: absolute;
+      top:240px;
+      left: 320px;
+      background-color: aliceblue;
+      border-radius: 25px;
+      width: 110px;
+      font-weight: bold;
+      font-size: 14px;
+    }
+  
+  
+    .ts3{
+      border: 2px solid green;
+      position: absolute;
+      top:240px;
+      left: 440px;
+      background-color: aliceblue;
+      border-radius: 25px;
+      width: 150px;
+      font-weight: bold;
+      font-size: 14px;
+    }
+  
+  
+    .ts4{
+      border: 2px solid green;
+      position: absolute;
+      top:240px;
+      left: 600px;
+      background-color: aliceblue;
+      border-radius: 25px;
+      width: 80px;
+      font-weight: bold;
+      font-size: 14px;
+    }
+
+    .ts5{
+        border: 2px solid green;
+        position: absolute;
+        top:240px;
+        left: 690px;
+        background-color: aliceblue;
+        border-radius: 25px;
+        width: 80px;
+        font-weight: bold;
+        font-size: 14px;
+      }
+
+
+      .ts6{
+        border: 2px solid green;
+        position: absolute;
+        top:240px;
+        left: 780px;
+        background-color: aliceblue;
+        border-radius: 25px;
+        width: 80px;
+        font-weight: bold;
+        font-size: 14px;
+      }
+  
+  
+    .pix100{
+      width: 650px;
+      height: 400px;
+      position: absolute;
+      top:440px;
+      left: 420px;
+      border: 2px solid white;
+      transition: 0.9s;
+      background-color: #d3d3d3;
+      mix-blend-mode: darken;
+      /* rotate: 45deg; */
+      overflow: hidden;
+      opacity: 0.7;
+    }
+  .pix100:hover{
+    width: 700px;
+    height: 450px;;
+    opacity: 1;
+    rotate: 0deg;
+  }
+    .cap100{
+      position: absolute;
+      top:950px;
+      left: 450px;
+      font-size:62px;
+      font-weight: bold;
+      color: gray;
+    }
+  
+    .cap200{
+      position: absolute;
+      top:1030px;
+      left: 420px;
+      font-size:62px;
+      font-weight: bold;
+      color: gray;
+    }
+  
+    .pij1{
+      position: absolute;
+      height: 40px;
+      width: 40px;
+      top:1380px;
+      left: 420px;
+    }
+  
+    .pij2{
+      position: absolute;
+      height: 40px;
+      width: 40px;
+      top:1380px;
+      left: 800px;
+    }
+  
+    .pij3{
+      position: absolute;
+      height: 40px;
+      width: 40px;
+      top:1380px;
+      left: 1150px;
+    }
+  
+  
+    .assis1{
+      position: absolute;
+      top:1430px;
+      font-size: 20px;
+      font-weight: bold;
+      left: 330px;
+    }
+  
+    .assis2{
+      position: absolute;
+      top:1460px;
+      font-size: 17px;
+      left: 290px;
+    }
+  
+  
+  
+    .musi1{
+      position: absolute;
+      top:1430px;
+      font-size: 20px;
+      font-weight: bold;
+      left: 670px;
+    }
+  
+    .musi2{
+      position: absolute;
+      top:1460px;
+      font-size: 17px;
+      left: 650px;
+    }
+  
+  
+    .hom1{
+      position: absolute;
+      top:1430px;
+      font-size: 20px;
+      font-weight: bold;
+      left: 1050px;
+    }
+  
+    .hom2{
+      position: absolute;
+      top:1460px;
+      font-size: 17px;
+      left: 1060px;
+    }
+  
+  
+    .pif1{
+      position: absolute;
+      height: 70px;
+      width: 70px;
+      top:1520px;
+      left: 780px;
+    }
+  
+    .okg{
+      position: absolute;
+      top:1610px;
+      font-size: 50px;
+      font-weight: bold;
+      left: 560px;
+      color: gray;
+    }
+  
+  
+    .det{
+      position: absolute;
+      top:1690px;
+      font-size: 17px;
+      font-weight: bold;
+      left: 590px;
+    }
+  
+  
+    .sound{
+      position: absolute;
+      top:1750px;
+      font-size: 40px;
+      font-weight: bold;
+      left: 490px;
+      color: darkgreen;
+    }
+  
+  
+    .pij400{
+      position: absolute;
+      height: 650px;
+      width: 950px;
+      top:1100px;
+      left: 310px;
+      border: 2px solid white;
+     
+    }
+
+    .pij600{
+      position: absolute;
+      height: 270px;
+      width: 1000px;
+      top:2260px;
+      left: 260px;
+      border: 2px solid white;
+     border-radius: 10px;
+    }
+
+    .pij700{
+      position: absolute;
+      height: 690px;
+      width: 1560px;
+      top:2560px;
+      left: -10px;
+      border: 2px solid white;
+     border-radius: 20px;
+    }
+
+    .pij800{
+      position: absolute;
+      height: 450px;
+      width: 300px;
+      top:3410px;
+      left:1000px;
+      border: 2px solid white;
+     border-radius: 20px;
+    }
+
+    .pij900{
+      position: absolute;
+      height: 450px;
+      top:3410px;
+      width: 300px;
+      left: 600px;
+      border: 2px solid white;
+     border-radius: 20px;
+    }
+
+    .pij1000{
+      position: absolute;
+      height: 450px;
+      width: 300px;
+      top:3410px;
+      left: 200px;
+      border: 2px solid white;
+     border-radius: 20px;
+    }
+
+
+    .hang1{
+      position: absolute;
+      top:3880px;
+      left: 250px;
+      color: darkslategray;
+      font-weight: bold;
+      font-size: 22px;
+    }
+
+    .hang2{
+      position: absolute;
+      top:3910px;
+      left: 200px;
+      color: darkslategray;
+      font-size: 15px;
+      text-align: center;
+    }
+
+
+    .hang3{
+      position: absolute;
+      top:3880px;
+      left: 630px;
+      color: darkslategray;
+      font-weight: bold;
+      font-size: 22px;
+    }
+
+    .hang4{
+      position: absolute;
+      top:3910px;
+      left: 620px;
+      color: darkslategray;
+      font-size: 15px;
+      text-align: center;
+    }
+
+
+
+    .hang5{
+      position: absolute;
+      top:3880px;
+      left: 1040px;
+      color: darkslategray;
+      font-weight: bold;
+      font-size: 22px;
+    }
+
+    .hang6{
+      position: absolute;
+      top:3910px;
+      left: 1070px;
+      color: darkslategray;
+      font-size: 15px;
+      text-align: center;
+    }
+
+
+  
+    .pij500{
+      position: absolute;
+      height: 650px;
+      width: 800px;
+      top:1800px;
+      left: 400px;
+      border: 2px solid white;
+     
+    }
+  
+    .hea1{
+      position: absolute;
+      top:1890px;
+      left: 100px;
+      font-weight: bold;
+      font-size: 23px;
+      color: darkslategray;
+    }
+  
+    .hea2{
+      position: absolute;
+      top:1930px;
+      left: 100px;
+      font-size: 17px;
+      color: grey;
+    }
+  
+    .hea3{
+      position: absolute;
+      top:1950px;
+      left: 100px;
+      font-size: 17px;
+      color: grey;
+    }
+  
+    .hea4{
+      position: absolute;
+      top:1970px;
+      left: 100px;
+      font-size: 17px;
+      color: grey;
+    }
+  
+    .hea5{
+      position: absolute;
+      top:1990px;
+      left: 100px;
+      font-size: 17px;
+      color: grey;
+    }
+  
+  
+    .hea6{
+      position: absolute;
+      top:2040px;
+      left: 100px;
+      font-weight: bold;
+      font-size: 23px;
+      color: darkslategray;
+    }
+  
+  
+    .hea7{
+      position: absolute;
+      top:2080px;
+      left: 100px;
+      font-size: 17px;
+      color: grey;
+    }
+  
+  
+    .hea8{
+      position: absolute;
+      top:2100px;
+      left: 100px;
+      font-size: 17px;
+      color: grey;
+    }
+  
+    .hea9{
+      position: absolute;
+      top:2120px;
+      left: 100px;
+      font-size: 17px;
+      color: grey;
+    }
+  
+    .hea10{
+      position: absolute;
+      top:2140px;
+      left: 100px;
+      font-size: 17px;
+      color: grey;
+    }
+  
+  
+    .pif2{
+      position: absolute;
+      height: 60px;
+      width: 60px;
+      top:2450px;
+      left: 730px;
+      border: 2px solid white;
+      border-radius: 15px;
+    }
+  
+  
+    .twi{
+      position: absolute;
+      top:2520px;
+      left: 500px;
+      font-weight: bold;
+      font-size: 50px;
+    }
+  
+  
+    .par{
+      position: absolute;
+      top:2590px;
+      left: 480px;
+      font-weight: bold;
+      font-size: 20px;
+      color: grey;
+    }
+  
+  
+  
+    .pif3{
+      position: absolute;
+      height: 650px;
+      width: 1360px;
+      top:2650px;
+      left: 70px;
+      border: 2px solid white;
+  
+    }
+  
+    .pif4{
+      position: absolute;
+      height: 390px;
+      width: 330px;
+      top:3350px;
+      left: 200px;
+      border: 2px solid white;
+    }
+  
+    .pif5{
+      position: absolute;
+      height: 390px;
+      width: 330px;
+      top:3350px;
+      left: 620px;
+      border: 2px solid white;
+    }
+  
+    .pif6{
+      position: absolute;
+      height: 390px;
+      width: 330px;
+      top:3350px;
+      left: 1020px;
+      border: 2px solid white;
+    
+    }
+  
+    .here{
+      position: absolute;
+      top:3780px;
+      left:500px;
+      font-size: 35px;
+      font-weight: bold;
+      color: darkslategray;
+    }
+  
+  
+    .there{
+      position: absolute;
+      top:3840px;
+      left:300px;
+      font-size: 14px;
+      font-weight: bold;
+      color: darkslategray;
+    }
+  
+  
+  
+    .pif7{
+      position: absolute;
+      height: 50px;
+      width: 50px;
+      top:3900px;
+      left: 740px;
+      border: 2px solid white;
+    
+    }
+  
+  
+    .con1{
+      position: absolute;
+      top:3980px;
+      font-weight: bold;
+      font-size: 50px;
+      color: darkslategray;
+      left:540px;
+    }
+  
+  
+    .con2{
+      position: absolute;
+      top:4030px;
+      font-weight: bold;
+      font-size: 50px;
+      color: darkslategray;
+      left:550px;
+    }
+  
+    .con3{
+      position: absolute;
+      top:4080px;
+      font-weight: bold;
+      font-size: 50px;
+      color: darkslategray;
+      left:700px;
+    }
+  
+  
+    .con4{
+      position: absolute;
+      top:4160px;
+      font-size: 17px;
+      color: darkslategray;
+      left:520px;
+    }
+  
+    .con5{
+      position: absolute;
+      top:4190px;
+      
+      font-size: 17px;
+      color: darkslategray;
+      left:520px;
+    }
+  
+    .con6{
+      position: absolute;
+      top:4250px;
+      font-size: 30px;
+      font-weight: bold;
+      color: darkslategray;
+      left:600px;
+    }
+  
+  
+    .pif8{
+      position: absolute;
+      height: 620px;
+      width: 1360px;
+      top:4300px;
+      left: 70px;
+      border: 2px solid white;
+    }
+  
+  
+  
+    .pif9{
+      position: absolute;
+      height: 40px;
+      width: 40px;
+      top:4440px;
+      left: 750px;
+      border: 2px solid white;
+    
+    }
+  
+  
+    .has1{
+      position: absolute;
+      top:4490px;
+      left: 550px;
+      font-size: 40px;
+      font-weight: bold;
+      color: darkslategray;
+    }
+  
+    .has2{
+      position: absolute;
+      top:4535px;
+      left: 490px;
+      font-size: 40px;
+      font-weight: bold;
+      color: darkslategray;
+    }
+  
+    .has3{
+      position: absolute;
+      top:4580px;
+      left: 590px;
+      font-size: 40px;
+      font-weight: bold;
+      color: darkslategray;
+    }
+  
+    .btnc{
+      position: absolute;
+      top:4640px;
+      left: 730px;
+      background-color: #0071dd;
+      color: white;
+      border: 2px solid #0071dd;
+      border-radius: 5px;
+      width: 80px;
+      height: 30px;
+      font-size: 14px;
+     font-family: Montserrat;
+    }
+
+    .btnc:hover{
+      opacity: 0.9;
+      border-radius: 10px;
+    }
+  
+  
+    .has4{
+      position: absolute;
+      top:4690px;
+      left: 580px;
+      font-size: 15px;
+      color: gray;
+    }
+  
+    ol{
+      position: absolute;
+      top:5270px;
+      font-size: 12px;
+      left: 200px;
+      
+    }
+  
+  
+    .twitter1b20{
+      width: 18px;
+      position: absolute;
+      right: 1390px;
+      top:5010px;
+    }
+    
+    .instagram1b20{
+      width: 18px;
+      position: absolute;
+      right: 1365px;
+      top:5010px;
+    }
+    
+    .facebook1b20{
+      width: 18px;
+      position: absolute;
+      right: 1340px;
+      top:5010px;
+    }
+    
+    .youtube1b20{
+      width: 20px;
+      position: absolute;
+      right: 1312px;
+      top:5010px;
+    }
+    
+    .tiktok1b20{
+      width: 18px;
+      position: absolute;
+      right: 1288px;
+      top:5010px;
+    }
+    
+    .india1b20{
+      width: 25px;
+      position: absolute;
+      right: 800px;
+      top:5010px;
+    }
+  
+  
+    .coun1b20{
+      position: absolute;
+      top:4925px;
+      right: 350px;
+      font-size: 15px;
+    }
+    
+    .help1b20{
+      position: absolute;
+      top: 4925px;
+      right: 200px;
+      font-size: 15px;
+    }
+    
+    .walk1b20{
+      position: absolute;
+      top: 4955px;
+      right: 335px;
+      font-size: 15px;
+    }
+    
+    .cont1b20{
+      position: absolute;
+      top: 4955px;
+      right: 205px;
+      font-size: 15px;
+    }
+    
+    
+    .disa1b20{
+      position: absolute;
+      top: 4985px;
+      right: 360px;
+      font-size: 15px;
+    }
+    
+    .devi1b20{
+      position: absolute;
+      top: 4985px;
+      right: 165px;
+      font-size: 15px;
+    }
+  
+  
+    .ind1b20{
+      position: absolute;
+      top:5015px;
+      font-size: 12px;
+      left: 730px;
+    }
+    
+    .pri1b20{
+      position: absolute;
+      top:5015px;
+      font-size: 12px;
+      left: 800px;
+    }
+    
+    
+    .goog1b20{
+      position: absolute;
+      top:5015px;
+      font-size: 12px;
+      left: 880px;
+    }
+    
+    
+    .sale1b20{
+      position: absolute;
+      top:5015px;
+      font-size: 12px;
+      left: 1110px;
+    }
+    
+    .term1b20{
+      position: absolute;
+      top:5015px;
+      font-size: 12px;
+      left: 1200px;
+    }
+  
+    .dev1b20{
+      position: absolute;
+      top:5040px;
+      padding-bottom: 10px;
+      font-size: 10px;
+      left: 110px;
+    }
+
+
+    .biggy{
+      position: absolute;
+      top:1250px;
+      font-size: 25px;
+      font-weight: bold;
+      left: 100px;
+    }
+
+
+    .biggy100{
+      position: absolute;
+      top:1290px;
+      font-size: 17px;
+      
+      left: 100px;
+    }
+
+
+    .mad{
+      position: absolute;
+      top:1550px;
+      font-size: 25px;
+      font-weight: bold;
+      left: 1100px;
+    }
+
+    .mad100{
+      position: absolute;
+      top:1620px;
+      font-size: 17px; 
+      left: 1100px;
+    }
+
+
+
+    .jij{
+      position: absolute;
+      top:1450px;
+      font-size: 25px;
+      font-weight: bold;
+      left: 100px;
+    }
+
+
+    .jij100{
+      position: absolute;
+      top:1520px;
+      font-size: 17px;
+      
+      left: 100px;
+    }
+
+
+    .stre{
+      position: absolute;
+      top:1780px;
+      font-weight: bold;
+      right: 550px;
+      font-size: 70px;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+
+
+    .stre2{
+      position: absolute;
+      top:1840px;
+      font-weight: bold;
+      right: 670px;
+      font-size: 70px;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+
+    .stre3{
+      position: absolute;
+      top:1900px;
+      font-weight: bold;
+      right: 680px;
+      font-size: 70px;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+
+    .stre4{
+      position: absolute;
+      top:2010px;
+      font-weight: bold;
+      right: 300px;
+      font-size: 50px;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+
+    .stre5{
+      position: absolute;
+      top:2070px;
+      font-weight: bold;
+      right: 400px;
+      font-size: 50px;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+
+    .stre6{
+      position: absolute;
+      top:2150px;
+      font-weight: bold;
+      right: 400px;
+      font-size: 20px;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+
+
+    .appsp{
+      position:absolute;
+      top:2200px;
+      color: white;
+      background-color: black;
+      border: 2px solid white;
+      width:220px;
+      right: 640px;
+      height: 35px;
+      border-radius: 10px;
+      font-size: 14px;
+    }
+
+
+    .thoug{
+      position: absolute;
+      top:3300px;
+      left: 500px;
+      font-weight: bold;
+      font-size: 45px;
+      letter-spacing: 1px;
+      color: darkslategray;
+    }
+
+
+    .pij1100{
+      position: absolute;
+      top:4000px;
+      width: 290px;
+      left: 70px;
+      height: 270px;
+      border-radius: 10px;
+      border: 2px solid white;
+      transition: 0.6s;
+    }
+
+    .pij1100:hover{
+      width: 300px;
+      height: 280px;
+    }
+
+    .pij1200{
+      position: absolute;
+      top:4000px;
+      width: 300px;
+      left: 430px;
+      border-radius: 10px;
+      border: 2px solid white;
+      transition: 0.6s;
+    }
+
+    .pij1200:hover{
+      width: 305px;
+      height: 275px;
+    }
+
+    .pij1300{
+      position: absolute;
+      top:4000px;
+      width: 310px;
+      left: 800px;
+      border-radius: 10px;
+      height: 270px;
+      border: 2px solid white;
+      transition: 0.6s;
+    }
+
+    .pij1300:hover{
+      width: 320px;
+      height: 280px;
+    }
+
+    .pij1400{
+      position: absolute;
+      top:4000px;
+      width: 300px;
+      left: 1150px;
+      border-radius: 10px;
+      height: 270px;
+      border: 2px solid white;
+      transition: 0.6s;
+    }
+
+    .pij1400:hover{
+      width: 310px;
+      height: 280px;
+    }
+
+    .chalk{
+      position: absolute;
+      top:4290px;
+      left: 180px;
+      font-size: 21px;
+      font-weight: bold;
+    }
+
+    .sky{
+      position: absolute;
+      top:4290px;
+      left: 560px;
+      color: skyblue;
+      font-size: 21px;
+      font-weight: bold;
+    }
+
+    .coral{
+      position: absolute;
+      top:4290px;
+      left: 920px;
+      font-size: 21px;
+      font-weight: bold;
+      color: orange;
+    }
+
+    .charcoal{
+      position: absolute;
+      top:4290px;
+      left: 1250px;
+      font-size: 21px;
+      font-weight: bold;
+    }
+
+
+
+    .fnd{
+      position: absolute;
+      top:4350px;
+      left: 700px;
+      background-color: #1b6bdb;
+      /* border: 2px solid #1b6bdb; */
+      width: 140px;
+      color: #fff;
+      border: none;
+      outline: none;
+      height: 36px;
+      padding: 0px;
+      /* font-weight: bold; */
+      font-family: Montserrat;
+      font-size: 16px;
+      transition: 0.4s;
+      border-radius: 5px;
+    }
+
+    .fnd:hover{
+      opacity: 0.9;
+      border-radius: 10px;
+    }
+
+
+
+
+
+
+
+
